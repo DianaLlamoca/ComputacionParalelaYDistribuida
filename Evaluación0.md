@@ -24,3 +24,5 @@ Este comando nos permite cambiar o movernos entre los distintos directorios exis
 ## Comandos: ls, less, file
 
 ### Comando: *ls*
+Este comando lista los directorios y/o archivos existentes.
+#### <sub>**ls*.</sub>
