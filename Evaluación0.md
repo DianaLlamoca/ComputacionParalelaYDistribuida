@@ -32,4 +32,4 @@ Este comando lista los directorios y/o archivos existentes.
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ls%20-%20bin.PNG)
 
 #### <sub>**ls -l**: Muestra los archivos y/o directorios del directorio actual en formato 'long'.</sub>
-![]()
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ls%20-l.PNG)
