@@ -25,4 +25,5 @@ Este comando nos permite cambiar o movernos entre los distintos directorios exis
 
 ### Comando: *ls*
 Este comando lista los directorios y/o archivos existentes.
-#### <sub>**ls*.</sub>
+#### <sub>**ls**: Solo muestra los archivos y/o directorios del directorio de trabajo actual.</sub>
+![]()
