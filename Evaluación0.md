@@ -43,4 +43,4 @@ Este comando lista los directorios y/o archivos existentes.
 
 #### <sub>**CONSIDERACIÓN - COMANDO: 'ls -la ..' o 'ls -l -a ..'**</sub>
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/consideracion.PNG)
-**Los dos puntos '..' hacen referencia al directorio que contiene al directorio 'ubuntu', es decir, 'home'. En otras palabras, se obtienen los archivos y/o directorios ocultos y no ocultos del directorio 'home'. 'home' en este caso, puesto que dependerá del directorio actual en donde se encuentre el usuario**
+**Los dos puntos '..' hacen referencia al directorio que contiene al directorio 'ubuntu', es decir, 'home'. En otras palabras, se obtienen los archivos y/o directorios ocultos y no ocultos del directorio 'home'. 'home' en este caso, puesto que dependerá del directorio actual en donde se encuentre el usuario.**
