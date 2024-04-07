@@ -27,3 +27,6 @@ Este comando nos permite cambiar o movernos entre los distintos directorios exis
 Este comando lista los directorios y/o archivos existentes.
 #### <sub>**ls**: Solo muestra los archivos y/o directorios del directorio de trabajo actual.</sub>
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ls.PNG)
+
+#### <sub>**ls /bin**: Muestra los archivos y/o directorios del directorio /bin.</sub>
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ls%20-%20bin.PNG)
