@@ -1,6 +1,6 @@
 # Navigation
  
-## Comandos a ver: pwd, cd, ls
+## Comandos: pwd, cd, ls
 
 ### Comando: *pwd*
 Este comando muestra el directorio de trabajo actual en el que nos situamos (el cual es 'ubuntu')
