@@ -15,4 +15,4 @@ Este comando nos permite cambiar o movernos entre los distintos directorios exis
 #### <sub>**Con nombre de ruta absoluto**.</sub>
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/cd_ruta-absoluta.PNG)
 #### <sub>**Con nombre de ruta relativo**.</sub>
-![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/cd_ruta-absoluta.PNG)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/cd_ruta-relativa.PNG)
