@@ -14,3 +14,5 @@ Este comando muestra los archivos contenidos en el directorio actual en el que n
 Este comando nos permite cambiar o movernos entre los distintos directorios existentes a partir del directorio actual en el que nos situamos.
 #### <sub>**Con nombre de ruta absoluto**.</sub>
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/cd_ruta-absoluta.PNG)
+#### <sub>**Con nombre de ruta relativo**.</sub>
+![]()
