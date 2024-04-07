@@ -16,3 +16,6 @@ Este comando nos permite cambiar o movernos entre los distintos directorios exis
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/cd_ruta-absoluta.PNG)
 #### <sub>**Con ruta de acceso relativa**.</sub>
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/cd_ruta-relativa.PNG)
+
+
+# LookingAround
