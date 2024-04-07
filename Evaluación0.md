@@ -33,3 +33,6 @@ Este comando lista los directorios y/o archivos existentes.
 
 #### <sub>**ls -l**: Muestra los archivos y/o directorios del directorio actual en formato 'long'.</sub>
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ls%20-l.PNG)
+
+#### <sub>**ls -l /bin /etc**: Muestra los archivos y/o directorios de los directorios /bin y /etc en formato 'long'.</sub>
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ls%20-l%20bin%20etc.PNG)
