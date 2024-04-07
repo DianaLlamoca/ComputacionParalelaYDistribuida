@@ -40,3 +40,5 @@ Este comando lista los directorios y/o archivos existentes.
 #### <sub>**ls -la**: Muestra los archivos y/o directorios (incluyendo los ocultos) en formato 'long'.</sub>
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ls%20-la.PNG)
 #### <sub>**ls -l -a**: Muestra los archivos y/o directorios (incluyendo los ocultos por el -a) en formato 'long' (es igual a 'ls -la').</sub>
+
+#### <sub>**CONSIDERACIÓN - COMANDO: 'ls -la ..' o 'ls -l -a ..'**</sub>
