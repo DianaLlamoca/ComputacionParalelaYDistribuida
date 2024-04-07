@@ -7,7 +7,7 @@ Este comando muestra el directorio de trabajo actual en el que nos situamos (el 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/pwd.PNG)
 
 ### Comando: *ls*
-Este comando muestra los archivos contenidos en el directorio actual en el que nos situamos.
+Este comando muestra los directorios y/o archivos contenidos en el directorio actual en el que nos situamos.
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ls.PNG)
 
 ### Comando: *cd*
