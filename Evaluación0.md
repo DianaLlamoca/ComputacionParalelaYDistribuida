@@ -12,7 +12,7 @@ Este comando muestra los archivos contenidos en el directorio actual en el que n
 
 ### Comando: *cd*
 Este comando nos permite cambiar o movernos entre los distintos directorios existentes.
-#### <sub>**Con ruta de acceso absoluto**.</sub>
+#### <sub>**Con ruta de acceso absoluta**.</sub>
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/cd_ruta-absoluta.PNG)
-#### <sub>**Con ruta de acceso relativo**.</sub>
+#### <sub>**Con ruta de acceso relativa**.</sub>
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/cd_ruta-relativa.PNG)
