@@ -1,1 +1,1 @@
-# ComputacionParalelaYDistribuida
+# 1) What is "the Shell"?
