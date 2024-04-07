@@ -8,3 +8,4 @@ Este comando muestra el directorio de trabajo actual en el que nos situamos (el 
 
 ### Comando: *ls*
 Este comando muestra los archivos contenidos en el directorio actual en el nos situamos.
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ls.PNG)
