@@ -48,3 +48,7 @@ Este comando lista los directorios y/o archivos existentes.
 ### Comando: *less*
 Este comando permite visualizar archivos de texto mediante un visualizador de archivos de texto.
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/less.PNG)
+
+### Comando: *file*
+Este comando permite indicar el tipo y/o formato de un archivo.
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/file.PNG)
