@@ -79,3 +79,6 @@ Este comando permite indicar el tipo y/o formato de un archivo.
 
 ### **Directorio var: '/var'**
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/var.PNG)
+
+### **bin: '/bin'**
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/lib.PNG)
