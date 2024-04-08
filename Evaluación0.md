@@ -76,3 +76,6 @@ Este comando permite indicar el tipo y/o formato de un archivo.
 
 ### **Directorio user/local: '/usr/local'**
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/usr-local.PNG)
+
+### **Directorio var: '/var'**
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/var.PNG)
