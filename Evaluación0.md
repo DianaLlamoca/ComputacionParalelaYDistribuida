@@ -82,3 +82,6 @@ Este comando permite indicar el tipo y/o formato de un archivo.
 
 ### **lib: '/lib'**
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/lib.PNG)
+
+### **Directorio home: '/home'**
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/home.PNG)
