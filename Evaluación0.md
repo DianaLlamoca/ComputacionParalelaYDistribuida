@@ -52,3 +52,7 @@ Este comando permite visualizar archivos de texto mediante un visualizador de ar
 ### Comando: *file*
 Este comando permite indicar el tipo y/o formato de un archivo.
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/file.PNG)
+
+# -------------
+
+# A Guided Tour
