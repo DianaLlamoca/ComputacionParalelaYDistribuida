@@ -67,3 +67,6 @@ Este comando permite indicar el tipo y/o formato de un archivo.
 
 ### **'bin' y 'usr/bin': '/bin' '/usr/bin'**
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/bin_usr-bin.PNG)
+
+### **'sbin' y 'usr/sbin': '/sbin' '/usr/sbin'**
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/sbin_usr-sbin.PNG)
