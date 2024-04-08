@@ -64,3 +64,6 @@ Este comando permite indicar el tipo y/o formato de un archivo.
 
 ### **Directorio etc: '/etc/**
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/directorio_etc.PNG)
+
+### **'bin' y 'usr/bin': '/bin' '/usr/bin'**
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/bin_usr-bin.PNG)
