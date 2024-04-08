@@ -80,5 +80,5 @@ Este comando permite indicar el tipo y/o formato de un archivo.
 ### **Directorio var: '/var'**
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/var.PNG)
 
-### **bin: '/bin'**
+### **lib: '/lib'**
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/lib.PNG)
