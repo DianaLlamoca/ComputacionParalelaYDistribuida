@@ -94,3 +94,6 @@ Este comando permite indicar el tipo y/o formato de un archivo.
 
 ### **Directorio dev: '/dev'**
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/dev.PNG)
+
+### **Directorio proc: '/proc'**
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/proc.PNG)
