@@ -61,3 +61,6 @@ Este comando permite indicar el tipo y/o formato de un archivo.
 
 ### **Directorio boot: '/boot'**
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/directorio_boot.PNG)
+
+### **Directorio etc: '/etc/**
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/directorio_etc.PNG)
