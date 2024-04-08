@@ -19,7 +19,7 @@ Este comando nos permite cambiar o movernos entre los distintos directorios exis
 
 # -------------
 
-# LookingAround
+# Looking Around
 
 ## Comandos: ls, less, file
 
