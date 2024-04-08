@@ -56,5 +56,8 @@ Este comando permite indicar el tipo y/o formato de un archivo.
 # -------------
 
 # A Guided Tour
-### **Directorio root: '/'**.
+### **Directorio root: '/'**
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/directorioroot.PNG)
+
+### **Directorio boot: '/boot'**
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/directorio_boot.PNG)
