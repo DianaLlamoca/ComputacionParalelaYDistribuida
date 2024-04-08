@@ -101,4 +101,6 @@ Este comando permite indicar el tipo y/o formato de un archivo.
 ### **Directorio media: '/media'**
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/media.PNG)
 
+# -------------
+
 # Manipulating Files
