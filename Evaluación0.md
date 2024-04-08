@@ -97,3 +97,6 @@ Este comando permite indicar el tipo y/o formato de un archivo.
 
 ### **Directorio proc: '/proc'**
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/proc.PNG)
+
+### **Directorio media: '/media'**
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/media.PNG)
