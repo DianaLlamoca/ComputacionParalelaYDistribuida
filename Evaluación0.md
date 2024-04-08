@@ -87,4 +87,4 @@ Este comando permite indicar el tipo y/o formato de un archivo.
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/home.PNG)
 
 ### **Directorio root: '/root'**
-![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/root.PNG
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/root.PNG)
