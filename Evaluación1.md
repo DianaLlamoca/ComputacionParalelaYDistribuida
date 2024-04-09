@@ -36,4 +36,4 @@
 
 ## Salida al ejecutar el archivo bash 5
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/bash_5.png)
-<p>Este comando lo que permite es filtrar ciertos procesos que tengan un valor de UID mayor a 1000. Por ello, se usa el comando 'awk' y así ejecutar dichas instrucciones.</p>
+<p>Este comando lo que permite es filtrar ciertos procesos de los usuarios tengan un valor de UID mayor a 1000. Por ello, se usa el comando 'awk' y así ejecutar dichas instrucciones.</p>
