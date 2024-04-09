@@ -46,4 +46,11 @@
 ![]()
 <p></p>
 
+# 7) Encontrar y listar todos los procesos que escuchan en un puerto específico
+## Archivo 'sh' del comando 7
+![]()
+
+## Salida al ejecutar el archivo bash 7
+![]()
+<p></p>
 
