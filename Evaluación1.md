@@ -21,3 +21,19 @@
 ## Salida al ejecutar el archivo bash 2
 ![]()
 <p></p>
+
+# 4) Verificar la cantidad de instancias de un proceso y actuar si supera un umbral
+## Archivo 'sh' del comando 4
+![]()
+
+## Salida al ejecutar el archivo bash 4
+![]()
+<p></p>
+
+# 5) Listar todos los procesos de usuarios sin privilegios (UID > 1000)
+## Archivo 'sh' del comando 5
+![]()
+
+## Salida al ejecutar el archivo bash 5
+![]()
+<p></p>
