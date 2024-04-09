@@ -69,4 +69,4 @@
 
 ## Salida al ejecutar el archivo bash 9
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/bash9.png)
-<p>Este comando genera un informe de procesos en formato de texto en el que se muestran los ID, tiempo de ejecución y comando de los procesos.</p>
+<p>Este comando genera un informe de procesos en formato de texto en el que se muestran los ID, tiempo de ejecución y CMD de los procesos.</p>
