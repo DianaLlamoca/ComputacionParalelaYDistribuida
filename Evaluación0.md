@@ -115,3 +115,7 @@ Si 'file2' no existe, entonces al colocar el comando, dicho archivo se creará a
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/cp%20file-file2-1.PNG)
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/cp-file-file2-2.PNG)
+
+#### *2) cp -i file1 file2*
+Este comando, a diferencia del anterior, el '-i' indica que si el archivo existe, 'se preguntará' al usuario si desea sobreescribir el contenido:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/cp%20-i%20file-file2.PNG)
