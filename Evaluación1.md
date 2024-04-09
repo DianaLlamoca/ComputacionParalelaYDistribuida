@@ -48,7 +48,7 @@
 
 # 7) Encontrar y listar todos los procesos que escuchan en un puerto específico
 ## Archivo 'sh' del comando 7
-![]()
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/bash7.png)
 
 ## Salida al ejecutar el archivo bash 7
 ![]()
