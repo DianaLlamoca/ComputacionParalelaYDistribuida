@@ -14,7 +14,7 @@
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/bash_2.png)
 <p>Este comando muestra el proceso zombie detectado (su ID y CMD). Sin embargo, debido a que no aparece ningún proceso, significa que no hay procesos zombie en el ordenador.</p>
 
-# 3) Reiniciar automáticamente un servicio no está corriendo
+# 3) Reiniciar automáticamente un servicio no está corriendo -ERROOOOOR
 ## Archivo 'sh' del comando 3
 ![]()
 
@@ -32,8 +32,8 @@
 
 # 5) Listar todos los procesos de usuarios sin privilegios (UID > 1000)
 ## Archivo 'sh' del comando 5
-![]()
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/SH_5.png)
 
 ## Salida al ejecutar el archivo bash 5
-![]()
-<p></p>
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/bash_5.png)
+<p>Este comando lo que permite es filtrar ciertos procesos que tengan un valor de UID mayor a 1000. Por ello, se usa el comando 'awk' y así ejecutar dichas instrucciones.</p>
