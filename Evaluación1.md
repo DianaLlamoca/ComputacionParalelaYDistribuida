@@ -54,3 +54,11 @@
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/bash7.png)
 <p>Este comando permite mostrar todos los procesos que escuchan específicamente al puerto 80</p>
 
+# 8) Monitorear la memoria utilizada por un conjunto de procesos y alertar si supera un umbral
+## Archivo 'sh' del comando 8
+![]()
+
+## Salida al ejecutar el archivo bash 8
+![]()
+<p></p>
+
