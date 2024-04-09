@@ -109,9 +109,9 @@ Este comando permite indicar el tipo y/o formato de un archivo.
 
 ### Comando: *cp*
 Este comando permitirá copiar archivos y/o directorios.
-#### -*cp file1 file2*
-<sub>Este comando permite copiar los contenidos de los archivos. Sin embargo, hay dos posibilidades:
+#### *cp file1 file2*
+Este comando permite copiar los contenidos de los archivos. Sin embargo, hay dos posibilidades:
 Si 'file2' no existe, entonces al colocar el comando, dicho archivo se creará automáticamente con el contenido de 'file1'
-Por otra parte, si 'file2' existe, el contenido de 'file1' se copiará en 'file2'.</sub>
+Por otra parte, si 'file2' existe, el contenido de 'file1' se copiará en 'file2'.
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/cp%20file-file2-1.PNG)
 ![(https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/cp-file-file2-2.PNG)
