@@ -5,3 +5,5 @@
 <h1>Salida al ejecutar el archivo bash</h1>
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Imagen1.png)
 <p>Este comando muestra el proceso que se está ejecutando, además del porcentaje de CPU que este utiliza.</p>
+
+# 2) Identificar procesos zombis y reportar
