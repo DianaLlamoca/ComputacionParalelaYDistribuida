@@ -48,9 +48,9 @@
 
 # 7) Encontrar y listar todos los procesos que escuchan en un puerto específico
 ## Archivo 'sh' del comando 7
-![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/bash7.png)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Sh_7.png)
 
 ## Salida al ejecutar el archivo bash 7
-![]()
-<p></p>
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/bash7.png)
+<p>Este comando permite mostrar todos los procesos que escuchan específicamente al puerto 80</p>
 
