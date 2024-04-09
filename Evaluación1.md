@@ -1,3 +1,5 @@
+# **COMANDO 'ps'**
+
 # 1) Monitoreo de procesos por uso excesivo de CPU
 ## Archivo 'sh' del comando 1
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/SH1.png)
