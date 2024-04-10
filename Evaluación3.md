@@ -54,3 +54,7 @@ En el archivo bash, para iniciar el contenedor debemos ejecutar el comando 'dock
 Una vez terminado lo anterior, guardamos el archivo bash y lo ejecutamos:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/eJecutado.png)
 Como puede verse en la imagen, el primer contenedor que aparece en la lista es el que acabamos de crear.
+
+## *Acceder y ejecutar el contenedor en ejecución*
+Para acceder al contenedor, colocamos el comando 'docker exec -it' para entrar en modo '/bin/bash' (por línea de comandos) al contenedor:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/carpetas_docker.png)
