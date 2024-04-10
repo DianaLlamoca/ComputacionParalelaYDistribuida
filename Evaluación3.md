@@ -22,3 +22,9 @@ Aquí, para renderizar el archivo HTML de manera automática en Flask, hemos uti
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ejec_index_camb.png)
 Ahora, en el navegador, copiamos la URL:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/pag_levantada.png)
+En el navegador se carga dicha interfaz gráfica.
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/cod_camb_pag_lev.png)
+Podemos ver desde la terminal que la aplicación web levantó correctamente.
+
+### Probamos con el método 'curl' para verificar la respuesta del servidor:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/pag_lev_2_met.png)
