@@ -154,7 +154,6 @@ Este comando borra los directorios (necesariamente debe ir '-r' para especificar
 #### *También se le puede añadir '-i' para que el sistema pregunte si se van a borrar aquellos directorios: rm -r -i dir1 ...
 
 ### Comando: *mkdir*
-Este comando sirve para crear directorios
 ### *1) mkdir dir ...* (los '...' hacen referencia a que se pueden crear muchos directorios en una sola línea de código)
 Este comando borra los archivos 'file1' y 'file2':
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/mkdir%201.PNG)
