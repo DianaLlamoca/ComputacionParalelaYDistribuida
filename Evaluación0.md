@@ -159,4 +159,6 @@ Este comando crea directorios
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/mkdir%201.PNG)
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/mkdir%202.PNG)
 
+# -------------
 
+# Working with Commands
