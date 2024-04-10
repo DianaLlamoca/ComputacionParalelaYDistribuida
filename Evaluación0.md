@@ -139,3 +139,9 @@ Este comando sirve para borrar archivos y/o directorios:
 Este comando borra los archivos 'file1' y 'file2':
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/rm-1.PNG)
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/rm-2.PNG)
+
+### *2) rm -i file1 file2*
+Al colocar el '-i' (interactive), se preguntará al usuario si desea borrar dichos archivos:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/rm%20-i%201.PNG)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/rm%20-i%202.PNG)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/rm%20-i%203.PNG)
