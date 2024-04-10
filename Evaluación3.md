@@ -1,4 +1,4 @@
-# Crear una aplicación web simple
+# *Crear una aplicación web simple*
 ## *Una vez que ya hayamos instalado Flask en el sistema y creado el archivo 'sample-app.py', ejecutamos la aplicación:*
 Si bien hay dos maneras de comprobar si la aplicación web se está ejecutando correctamente, yo usé el método de colocar la URL
 en el navegador web:
@@ -28,3 +28,6 @@ Podemos ver desde la terminal que la aplicación web levantó correctamente.
 
 ### Probamos con el método 'curl' para verificar la respuesta del servidor:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/pag_lev_2_met.png)
+
+---- 
+# Crear un script de Bash para compilar y ejecutar un contenedor Docker
