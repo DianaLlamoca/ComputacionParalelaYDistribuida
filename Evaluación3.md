@@ -74,4 +74,4 @@ Entonces, al haber colocado este comando, la página web ya no debería estar ej
 Finalmente, como se indica en la Evaluación 3, se debe eliminar el contenedor. Para ello, usaremos el comando 'docker rm (nombre_del_cont)' y para ver que dicha acción ha sido ejecutada, listamos los contenedores con 'docker ps -a':
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/docker-final.png)
 
-***EVALUACIÓN 3***
+*-------------------------------EVALUACIÓN 3--------------------------------
