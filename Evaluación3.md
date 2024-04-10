@@ -55,6 +55,21 @@ Una vez terminado lo anterior, guardamos el archivo bash y lo ejecutamos:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/eJecutado.png)
 Como puede verse en la imagen, el primer contenedor que aparece en la lista es el que acabamos de crear.
 
+## *Investiga el contenedor Docker en ejecución y la aplicación web*
+Debido a que el contenedor Docker ya está en ejecución, el contenedor Docker creará su propia dirección IP a partir de un espacio de direcciones de red privada. Para ver que la aplicación web se esté ejecutando, en el navegador web colocamos la URL 'http://localhost:8080':
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/pag_lev_final_docker.png)
+
+Para mostrar todas las direcciones IP utilizadas, colocamos el comando 'ip address':
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ips_mostradas.png)
+
 ## *Acceder y explorar el contenedor en ejecución*
 Para acceder al contenedor, colocamos el comando 'docker exec -it' para entrar en modo '/bin/bash' (por línea de comandos) al contenedor, y para ver qué archivos contiene, usaremos el comando 'ls':
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/carpetas_docker.png)
+
+## *Detener y retirar el contenedor*
+Para detener el contenedor, usaremos el comando 'docker stop (nombre_del_cont)' y para poder ver que el contenedor ha sido detenido, colocaremos 'docker ps -a':
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/docker_cont_stop.png)
+Entonces, al haber colocado este comando, la página web ya no debería estar ejecutándose:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/pag_caida_stop.png)
+Finalmente, como se indica en la Evaluación 3, se debe eliminar el contenedor. Para ello, usaremos el comando 'docker rm (nombre_del_cont)' y para ver que dicha acción ha sido ejecutada, listamos los contenedores con 'docker ps -a':
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/docker-final.png)
