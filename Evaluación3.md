@@ -50,4 +50,6 @@ Para construir el contenedor docker, agregamos los dos siguientes comandos en el
 ## *Iniciar el contenedor y comprobar que se está ejecutando*
 En el archivo bash, para iniciar el contenedor debemos ejecutar el comando 'docker build' y para comprobar que se está ejecutando (o que este ha sido creado), lo listamos con 'ps -a':
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/iniciarElContYComprQueSeEjecuta.png)
-Una vez terminado lo anterior, guardamos el archivo bash.
+
+Una vez terminado lo anterior, guardamos el archivo bash y lo ejecutamos:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/eJecutado.png)
