@@ -145,3 +145,8 @@ Al colocar el '-i' (interactive), se preguntará al usuario si desea borrar dich
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/rm%20-i%201.PNG)
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/rm%20-i%202.PNG)
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/rm%20-i%203.PNG)
+
+### *3) rm -r dir1 dir2*
+Este comando borra los directorios (necesariamente debe ir '-r' para especificar que son directorios lo que se va a borrar) 'dir1' y 'dir2':
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/rm%20-r%201.PNG)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/rm%20-r%202.PNG)
