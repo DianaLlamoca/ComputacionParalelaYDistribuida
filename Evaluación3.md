@@ -3,3 +3,4 @@
 Si bien hay dos maneras de comprobar si la aplicación web se está ejecutando correctamente, yo usé el método de colocar la URL
 en el navegador web:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/pagina_web2.png)
+Se puede ver que la página funciona correctamente.
