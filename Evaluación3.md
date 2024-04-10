@@ -4,3 +4,5 @@ Si bien hay dos maneras de comprobar si la aplicación web se está ejecutando c
 en el navegador web:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/pagina_web2.png)
 Se puede ver que la página funciona correctamente.
+
+## *Configurar la aplicación web para utilizar archivos de sitio web*
