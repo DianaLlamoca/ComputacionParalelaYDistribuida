@@ -123,3 +123,9 @@ En este comando, a diferencia del anterior, el '-i' indica que si el archivo exi
 #### *3) cp file1 dir1*
 Este comando copia un archivo 'file1' al directorio especificado 'dir1':
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/cp%20file1%20dir1.PNG)
+
+#### *4) cp -R dir1 dir2*
+Este comando permite copiar el contenido de 'dir1' a 'dir2'. Si 'dir2' no existiera, este se creará automáticamente al ejecutar el comando:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/cp%20-R%20dir1%20dir2.PNG)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/cp-file-file2-2.PNG)
+
