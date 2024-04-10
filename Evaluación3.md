@@ -31,7 +31,7 @@ Podemos ver desde la terminal que la aplicación web levantó correctamente.
 
 ---- 
 # Crear un script de Bash para compilar y ejecutar un contenedor Docker
-## *Crear directorios temporales para almacenar los archivos del sitio web y copiar los directorios del sitio web y sample-app.py en el directorio temporal*
+## *Crear directorios temporales para almacenar los archivos del sitio web y copiar los directorios del sitio web y sample_app.py en el directorio temporal*
 Primero, para ello, creamos el archivo bash, con el nombre 'sample-app.sh':
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/script_sample-app.sh.png)
 Entramos al archivo bash y agregamos el 'she-bang':
