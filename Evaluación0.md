@@ -127,5 +127,4 @@ Este comando copia un archivo 'file1' al directorio especificado 'dir1':
 #### *4) cp -R dir1 dir2*
 Este comando permite copiar el contenido de 'dir1' a 'dir2'. Si 'dir2' no existiera, este se creará automáticamente al ejecutar el comando:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/cp%20-R%20dir1%20dir2.PNG)
-![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/cp-file-file2-2.PNG)
-
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/%C2%B4cp%20-R%20dir1%20dir2-2.PNG)
