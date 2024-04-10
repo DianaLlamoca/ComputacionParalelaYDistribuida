@@ -37,6 +37,8 @@ Primero, para ello, creamos el archivo bash, con el nombre 'sample-app.sh':
 Entramos al archivo bash y agregamos el 'she-bang':
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/she-bang.png)
 Además, en el archivo bash, colocamos los comandos para crear los directorios correspondientes y para copiar el directorio del sitio web y el script a 'tempdir':
-![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ModificacionOJOOO.png)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Modificado.png)
 
-
+## *Crear un archivo docker (Dockerfile)*
+Agregamos los comandos respectivos al archivo bash:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/CreandoElArchivoDOcker.png)
