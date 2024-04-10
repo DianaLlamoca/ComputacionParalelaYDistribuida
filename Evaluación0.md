@@ -152,3 +152,12 @@ Este comando borra los directorios (necesariamente debe ir '-r' para especificar
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/rm%20-r%202.PNG)
 
 #### *También se le puede añadir '-i' para que el sistema pregunte si se van a borrar aquellos directorios: rm -r -i dir1 ...
+
+### Comando: *mkdir*
+Este comando sirve para crear directorios
+### *1) mkdir dir ...* (los '...' hacen referencia a que se pueden crear muchos directorios en una sola línea de código)
+Este comando borra los archivos 'file1' y 'file2':
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/mkdir%201.PNG)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/mkdir%202.PNG)
+
+
