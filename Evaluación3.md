@@ -33,8 +33,8 @@ Podemos ver desde la terminal que la aplicación web levantó correctamente.
 # Crear un script de Bash para compilar y ejecutar un contenedor Docker
 ## *Crear directorios temporales para almacenar los archivos del sitio web*
 Primero, para ello, creamos el archivo bash, con el nombre 'sample-app.sh':
-![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/1)Creando_el_script_sample-app.sh.png)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/script_sample-app.sh.png)
 Entramos al archivo bash y agregamos el 'she-bang':
-![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/2)agregando_el_she-bang.png)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/she-bang.png)
 Además, en el archivo bash colocamos los comandos para crear los directorios correspondientes y para copiar el directorio del sitio web y el script a 'tempdir':
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ModificacionOJOOO.png)
