@@ -41,4 +41,4 @@ Además, en el archivo bash, colocamos los comandos para crear los directorios c
 
 ## *Crear un archivo docker (Dockerfile)*
 Agregamos los comandos respectivos al archivo bash:
-![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/CreandoElArchivoDOcker.png)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/archivoDOcker.png)
