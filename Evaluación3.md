@@ -16,3 +16,4 @@ Como ya hemos creado el directorio 'static' con 'mkdir static', creamos el archi
 
 ### Ahora, como ya hemos creado los archivos 'index.html' y 'style.css', debemos actualizar el código python que hemos creado para ejecutar la aplicación web 'sample-app.py'
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/index_cambiado.png)
+Aquí, para renderizar el archivo HTML de manera automática en Flask, hemos utilizado la función 'render_templates', y por ello hemos modificado el 'return' de la app de python.
