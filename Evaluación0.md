@@ -130,3 +130,12 @@ Este comando permite copiar el contenido de 'dir1' a 'dir2'. Si 'dir2' no existi
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/%C2%B4cp%20-R%20dir1%20dir2-2.PNG)
 
 ### Comando: *mv*
+
+
+
+### Comando: *rm*
+Este comando sirve para borrar archivos y/o directorios:
+### *1) rm file1 file2*
+Este comando borra los archivos 'file1' y 'file2':
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/rm-1.PNG)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/rm-2.PNG)
