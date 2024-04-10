@@ -53,3 +53,4 @@ En el archivo bash, para iniciar el contenedor debemos ejecutar el comando 'dock
 
 Una vez terminado lo anterior, guardamos el archivo bash y lo ejecutamos:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/eJecutado.png)
+Como puede verse en la imagen, el primer contenedor que aparece en la lista es el que acabamos de crear.
