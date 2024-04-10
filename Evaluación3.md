@@ -42,3 +42,11 @@ Además, en el archivo bash, colocamos los comandos para crear los directorios c
 ## *Crear un archivo docker (Dockerfile)*
 Agregamos los comandos respectivos al archivo bash:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/archivoDOcker.png)
+
+## *Construir el contenedor Docker*
+Para construir el contenedor docker, agregamos los dos siguientes comandos en el archivo bash:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/construyendoElContDocker.png)
+
+## *Iniciar el contenedor y comprobar que se está ejecutando*
+En el archivo bash, para iniciar el contenedor debemos ejecutar el comando 'docker build' y para comprobar que se está ejecutando, lo listamos con 'ps -a':
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/iniciarElContYComprQueSeEjecuta.png)
