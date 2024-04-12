@@ -214,3 +214,5 @@ Aquí lo que se está realizando es que la salida del comando 'ls -l' se colocar
 Es decir, la salida del comando 'ls -l' se introduce en el comando 'less'.
 
 ### Filters
+Los 'filters' se usan frecuentemente con los pipelines para filtrar información específica. Ejemplos:
+#### *sort*:
