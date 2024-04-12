@@ -253,6 +253,7 @@ Mostramos solo las últimas lineas de la lista de procesos mediante el comando '
 #### *tr*:
 El comando 'tr' permite manipular texto, ya sea para cambiar frases de mayúscula a minúscula, etc:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/tr.PNG)
+
 Aquí usamos el comando 'tr' en el pipeline. Es decir, del contenido de 'lista.txt', cambia los elementos que contienen la 'a' (minúscula) por la 'A' (mayúscula).
 
 #### *sed*:
