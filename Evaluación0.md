@@ -190,6 +190,7 @@ Este comando muestra el manual del comando que se está colocando en el terminal
 ### Estandard Output
 Para redirigir la salida estándar a un archivo, se usa '>':
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Standard%20Output.PNG)
+
 Aquí, la salida del comando 'ls' fue redirigida al archivo 'red.txt', por lo que ya no aparecen los resultados en la pantalla.
 
 Ahora, para agregar 'nuevos' resultados al archivo, se usará '>>':
