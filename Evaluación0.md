@@ -170,3 +170,15 @@ Este comando muestra qué tipo de comando ejecutará el shell:
 ### Comando: *which*
 Este comando determina la ubicación exacta de un ejecutable determinado:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/which.PNG)
+
+### Comando: *help*
+Este comando es una función de ayuda incorporada disponible para cada una de las funciones integradas del shell:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/help.PNG)
+
+### Comando: *--help*
+Este comando muestra la descripción de la sintaxis y las opciones admitidas para dicho comando:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/--help.PNG)
+
+### Comando: *man*
+Este comando muestra el manual del comando que se está colocando en el terminal. Provee información detallada, como la descripción, los autores, entre otros:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/man.PNG)
