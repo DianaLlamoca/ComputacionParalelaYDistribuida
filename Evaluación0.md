@@ -239,6 +239,7 @@ En la imagen lo que se está haciendo es ordenar los elementos que están dentro
 #### *pr*:
 El comando 'pr' se utiliza para paginar o columnar archivos para imprimir:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/pr.PNG)
+
 (También puede usarse en conjunto con pipelines)
 
 #### *head*:
