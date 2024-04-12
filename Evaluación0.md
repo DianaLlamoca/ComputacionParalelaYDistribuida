@@ -166,3 +166,7 @@ Este comando crea directorios
 ### Comando: *type*
 Este comando muestra qué tipo de comando ejecutará el shell:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/type.PNG)
+
+### Comando: *which*
+Este comando determina la ubicación exacta de un ejecutable determinado:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/which.PNG)
