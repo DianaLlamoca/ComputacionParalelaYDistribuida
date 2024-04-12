@@ -229,3 +229,15 @@ Aquí estamos listando los procesos pertenecientes a 'usr'
 
 
 #### *fmt*:
+
+
+#### *pr*:
+
+
+#### *head*:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/head.PNG)
+De la lista de procesos, solo listamos las primeras líneas mediante el comando 'head'.
+
+#### *tail*:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/tail.PNG)
+Mostramos solo las últimas lineas de la lista de procesos mediante el comando 'tail'.
