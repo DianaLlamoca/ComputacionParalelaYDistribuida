@@ -162,3 +162,7 @@ Este comando crea directorios
 # -------------
 
 # Working with Commands
+
+### Comando: *type*
+Este comando muestra qué tipo de comando ejecutará el shell:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/type.PNG)
