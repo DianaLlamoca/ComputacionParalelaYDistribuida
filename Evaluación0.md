@@ -1,4 +1,4 @@
-# Navigation
+# 2) Navigation
  
 ## Comandos: pwd, cd, ls
 
@@ -19,7 +19,7 @@ Este comando nos permite cambiar o movernos entre los distintos directorios exis
 
 # -------------
 
-# Looking Around
+# 3) Looking Around
 
 ## Comandos: ls, less, file
 
@@ -55,7 +55,7 @@ Este comando permite indicar el tipo y/o formato de un archivo.
 
 # -------------
 
-# A Guided Tour
+# 4) A Guided Tour
 ### **Directorio root: '/'**
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/directorioroot.PNG)
 
@@ -103,7 +103,7 @@ Este comando permite indicar el tipo y/o formato de un archivo.
 
 # -------------
 
-# Manipulating Files
+# 5) Manipulating Files
 
 ## Comandos: cp, mv, rm, mkdir
 
@@ -161,7 +161,7 @@ Este comando crea directorios
 
 # -------------
 
-# Working with Commands
+# 6) Working with Commands
 
 ### Comando: *type*
 Este comando muestra qué tipo de comando ejecutará el shell:
@@ -185,7 +185,7 @@ Este comando muestra el manual del comando que se está colocando en el terminal
 
 # -------------
 
-# I/O Redirection
+# 7) I/O Redirection
 
 ### Standard Output
 Para redirigir la salida estándar a un archivo, se usa '>':
@@ -270,4 +270,4 @@ Aquí se está listando la lista de procesos, colocamos el comando 'grep' para l
 
 # -------------
 
-# Expansion
+# 6) Expansion
