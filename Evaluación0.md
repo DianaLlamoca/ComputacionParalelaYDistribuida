@@ -186,3 +186,5 @@ Este comando muestra el manual del comando que se está colocando en el terminal
 # -------------
 
 # I/O Redirection
+
+### Estandard Output
