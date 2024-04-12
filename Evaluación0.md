@@ -270,4 +270,4 @@ Aquí se está listando la lista de procesos, colocamos el comando 'grep' para l
 
 # -------------
 
-# 6) Expansion
+# 8) Expansion
