@@ -188,3 +188,5 @@ Este comando muestra el manual del comando que se está colocando en el terminal
 # I/O Redirection
 
 ### Estandard Output
+Para redirigir la salida estándar a un archivo, se usa '>':
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Standard%20Output.PNG)
