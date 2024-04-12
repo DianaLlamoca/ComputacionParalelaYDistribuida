@@ -226,3 +226,6 @@ Aquí estamos listando los archivos y/o directorios para después ordenarlos de 
 #### *greep*:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/grep.PNG)
 Aquí estamos listando los procesos pertenecientes a 'usr'
+
+
+#### *fmt*:
