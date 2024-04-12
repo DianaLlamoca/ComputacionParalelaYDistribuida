@@ -204,4 +204,5 @@ Aquí se puede ver claramente que se le está pasando el comando 'sort' (es deci
 
 Por otra parte, en la siguiente imagen se muestran las dos operaciones juntas:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/StandardInput2.PNG)
+
 Primero se realiza la operación de input, después la operación de output (es decir, primero se ordena, luego dicho resultado se almacena en un archivo de texto)
