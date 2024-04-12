@@ -233,6 +233,7 @@ Aquí estamos listando los procesos pertenecientes a 'usr'
 #### *fmt*:
 El comando 'fmt' lee el texto de entrada estándar y luego genera el texto formateado en la salida estándar:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/fmt.PNG)
+
 En la imagen lo que se está haciendo es ordenar los elementos que están dentro del archivo 'texto.txt', para que después solo se seleccione los elementos no repetidos con 'uniq', para que finalmente se genere el texto formateado en la salida estándar (es decir, en 1 sola fila).
 
 #### *pr*:
