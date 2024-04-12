@@ -251,4 +251,5 @@ Mostramos solo las últimas lineas de la lista de procesos mediante el comando '
 #### *awk*:
 El comando 'awk' permite llevar a cabo acciones determinadas. Por ejemplo:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/awk.PNG)
+
 Aquí se está listando la lista de procesos, colocamos el comando 'grep' para listar todos los procesos que contienen 'usr' en su fila correspondiente y 'awk' para indicar que solo se muestren las columnas 1, 2 y 11.
