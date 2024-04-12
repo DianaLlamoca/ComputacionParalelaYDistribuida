@@ -197,3 +197,6 @@ Ahora, para agregar 'nuevos' resultados al archivo, se usará '>>':
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/StandardOutput2.PNG)
 
 ### Standard Input
+Para redirigir la entrada estándar desde un archivo en lugar del teclado, se usa '<':
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/StandardInput.PNG)
+Aquí se puede ver claramente que se le está pasando el comando 'sort' (es decir, que ordene los elementos contenidos en dicho archivo) y dicho resultado se mostrará en pantalla automáticamente. Es un 'standar 'input'' porque se le está pasando un comando que va a operar sobre ese archivo.
