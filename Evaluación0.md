@@ -208,3 +208,7 @@ Por otra parte, en la siguiente imagen se muestran las dos operaciones juntas:
 Primero se realiza la operación de input, después la operación de output (es decir, primero se ordena, luego dicho resultado se almacena en un archivo de texto)
 
 ### Pipelines
+Los 'pipelines' permiten conectar múltiples comandos. Por ejemplo,
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Pipelines1.PNG)
+Aquí lo que se está realizando es que la salida del comando 'ls -l' se colocará en un archivo de texto, pues se especifica 'ls -l | less'.
+Es decir, la salida del comando 'ls -l' se introduce en el comando 'less'.
