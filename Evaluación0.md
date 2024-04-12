@@ -257,7 +257,10 @@ El comando 'tr' permite manipular texto, ya sea para cambiar frases de mayúscul
 Aquí usamos el comando 'tr' en el pipeline. Es decir, del contenido de 'lista.txt', cambia los elementos que contienen la 'a' (minúscula) por la 'A' (mayúscula).
 
 #### *sed*:
+El comando 'sed' permite realizar 'traducciones' de texto más sofisticadas:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/sed.PNG)
 
+Mediante dicho comando pudimos reemplazar la palabra 'amarillo' por 'hola', luego de haber ordenado y seleccionado solo datos sin duplicar, mediante los comandos 'sort' y 'uniq', respectivamente.
 
 #### *awk*:
 El comando 'awk' permite llevar a cabo acciones determinadas. Por ejemplo:
