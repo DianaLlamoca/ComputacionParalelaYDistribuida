@@ -221,6 +221,8 @@ Los 'filters' se usan frecuentemente con los pipelines para filtrar información
 Aquí estamos listando los archivos y/o directorios para después ordenarlos de manera automática con 'sort'. El uso de '|' indica el uso de pipelines.
 
 #### *uniq*:
+El comando 'uniq' muestra datos sin duplicar, ejemplo:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/uniq.PNG)
 
 
 #### *grep*:
