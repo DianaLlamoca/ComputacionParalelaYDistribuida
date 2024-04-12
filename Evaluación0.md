@@ -195,3 +195,5 @@ Aquí, la salida del comando 'ls' fue redirigida al archivo 'red.txt', por lo qu
 
 Ahora, para agregar 'nuevos' resultados al archivo, se usará '>>':
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/StandardOutput2.PNG)
+
+### Estandard Input
