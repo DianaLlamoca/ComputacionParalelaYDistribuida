@@ -216,3 +216,5 @@ Es decir, la salida del comando 'ls -l' se introduce en el comando 'less'.
 ### Filters
 Los 'filters' se usan frecuentemente con los pipelines para filtrar información específica. Ejemplos:
 #### *sort*:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/sort.PNG)
+Aquí estamos listando los archivos y/o directorios para después ordenarlos de manera automática con 'sort'. El uso de '|' indica el uso de pipelines.
