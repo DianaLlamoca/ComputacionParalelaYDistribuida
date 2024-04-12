@@ -182,3 +182,7 @@ Este comando muestra la descripción de la sintaxis y las opciones admitidas par
 ### Comando: *man*
 Este comando muestra el manual del comando que se está colocando en el terminal. Provee información detallada, como la descripción, los autores, entre otros:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/man.PNG)
+
+# -------------
+
+# I/O Redirection
