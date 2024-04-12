@@ -177,7 +177,7 @@ Este comando es una función de ayuda incorporada disponible para cada una de la
 
 ### Comando: *--help*
 Este comando muestra la descripción de la sintaxis y las opciones admitidas para dicho comando:
-![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/--help.PNG)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/help(--).PNG)
 
 ### Comando: *man*
 Este comando muestra el manual del comando que se está colocando en el terminal. Provee información detallada, como la descripción, los autores, entre otros:
