@@ -219,3 +219,10 @@ Los 'filters' se usan frecuentemente con los pipelines para filtrar información
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/sort.PNG)
 
 Aquí estamos listando los archivos y/o directorios para después ordenarlos de manera automática con 'sort'. El uso de '|' indica el uso de pipelines.
+
+#### *uniq*:
+
+
+#### *greep*:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/grep.PNG)
+Aquí estamos listando los procesos que contienen pertenecientes a 'usr'
