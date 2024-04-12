@@ -212,3 +212,5 @@ Los 'pipelines' permiten conectar múltiples comandos. Por ejemplo: 'ls -l | les
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Pipelines1.PNG)
 Aquí lo que se está realizando es que la salida del comando 'ls -l' se colocará en un archivo de texto, pues se especifica 'ls -l | less'.
 Es decir, la salida del comando 'ls -l' se introduce en el comando 'less'.
+
+### Filters
