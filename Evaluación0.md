@@ -310,3 +310,7 @@ Este comando permite crear múltiples cadenas de texto y/o archivos, directorios
 Es una capacidad del sistema para almacenar pequeños fragmentos de datos y darle un nombre a cada fragmento:
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/exp_par.PNG)
+
+# Command Substitution
+La *sustitución de comandos* permite utilizar la salida de un comando como una expansión:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/sust_com.PNG)
