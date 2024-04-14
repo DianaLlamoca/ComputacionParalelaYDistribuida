@@ -286,3 +286,9 @@ Por ejemplo, en el primer comando, donde se usa 'echo', puede verse que estamos 
 En el segundo, indicamos que empiece el nombre del archivo por la letra 's' seguido de cualquier símbolo, también podemos especificarle que empiece con mayúscula o minúscula (comando 4 y 5), aunque también sirve para buscar más allá del directorio en el que nos encontramos (último comando de la imagen)
 
 # Tilde Expansion
+El carácter '~', cuando se usa al 'principio' de una palabra, se expande al nombre del directorio de inicio (expandir al directorio home del usuario).
+Si no se especifica ningún usuario, se mostrará el directorio del inicio del usuario actual; caso contrario (si existe el otro usuario designado), se mostraría su directorio de inicio:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/exp_til_1.PNG)
+
+El primer comando indica el directorio del inicio del usuario actual (puesto que no se especifica un nombre en concreto seguido de ~)
+El segundo comando (puesto que no hay más usuarios creados, solo ubuntu) se mostraría dicho directorio de 'ubuntu' (que en este caso sería equivalente a solo 'echo ~', sin embargo solamente coloqué dicho ejemplo para hacer ambas distinciones de *tilde expansion*)
