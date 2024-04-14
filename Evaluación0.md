@@ -291,5 +291,5 @@ Si no se especifica ningún usuario, se mostrará el directorio de inicio del us
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/exp_til_1.PNG)
 
-El primer comando indica el directorio del inicio del usuario actual (puesto que no se especifica un nombre en concreto seguido de '~')
+El primer comando indica el directorio de inicio del usuario actual (puesto que no se especifica un nombre en concreto seguido de '~')
 El segundo comando (puesto que no hay más usuarios creados, solo 'ubuntu') se mostraría dicho directorio del usuario 'ubuntu' (que en este caso sería equivalente a solo 'echo ~'; sin embargo, solamente coloqué dicho ejemplo para hacer ambas distinciones de *tilde expansion*)
