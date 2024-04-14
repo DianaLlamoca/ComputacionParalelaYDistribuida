@@ -284,3 +284,5 @@ El mecanismo por el cual funcionan los 'comodines' (en el ejemplo anterior, el s
 
 Por ejemplo, en el primer comando, donde se usa 'echo', puede verse que estamos buscando los nombres de los archivos que comiencen con D (seguido de cualquier letra y/o número, símbolo: puede verse como una expresión regular).
 En el segundo, indicamos que empiece el nombre del archivo por la letra 's' seguido de cualquier símbolo, también podemos especificarle que empiece con mayúscula o minúscula (comando 4 y 5), aunque también sirve para buscar más allá del directorio en el que nos encontramos (último comando de la imagen)
+
+# Tilde Expansion
