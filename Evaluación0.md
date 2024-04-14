@@ -277,3 +277,10 @@ En esta imagen, el comando 'echo' lo único que hace será repetir la frase que 
 
 Sin embargo, en el segundo comando de 'echo' (donde hay un '*') significa 'coincidir' con cualquier carácter en un nombre de archivo (en este caso, los nombres de los archivos del directorio actual):
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/exp2.PNG)
+
+# Pathname Expansion
+El mecanismo por el cual funcionan los 'comodines' (en el ejemplo anterior, el símbolo '*') se llama *expansión de nombre de ruta*. Para ejemplificar esto, se ejecutarán los siguientes comandos:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/exp_r_1.PNG)
+
+Por ejemplo, en el primer comando done se usa 'echo' puede verse que estamos buscando los nombres de los archivos que comiencen con D (seguido de cualquier letra y/o número, símbolo: puede verse como una expresión regular).
+En el segundo, indicamos que empiece el nombre del archivo por la letra 's' seguido de cualquier símbolo, también podemos especificarle que empiece con mayúscula o minúscula (comando 4 y 5), aunque también sirve para buscar más allá del directorio en el que nos encontramos (último comando de la imagen)
