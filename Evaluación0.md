@@ -296,5 +296,7 @@ El segundo comando (puesto que no hay más usuarios creados, solo 'ubuntu') se m
 
 # Arithmetic Expansion
 El shell permite realizar operaciones aritméticas mediante expansión:
+
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/exp_arit.PNG)
+
 OJO: La expansión aritmética se usa de la forma $((expresión))
