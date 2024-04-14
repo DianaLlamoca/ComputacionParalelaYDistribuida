@@ -305,3 +305,5 @@ OJO: La expansión aritmética se usa de la forma $((expresión))
 Este comando permite crear múltiples cadenas de texto y/o archivos, directorios a partir de un patrón que contenga llaves:
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/exp_brace.PNG)
+
+# Parameter Expansion
