@@ -307,3 +307,6 @@ Este comando permite crear múltiples cadenas de texto y/o archivos, directorios
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/exp_brace.PNG)
 
 # Parameter Expansion
+Es una capacidad del sistema para almacenar pequeños fragmentos de datos y darle un nombre a cada fragmento:
+
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/exp_par.PNG)
