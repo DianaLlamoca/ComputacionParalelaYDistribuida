@@ -314,3 +314,7 @@ Es una capacidad del sistema para almacenar pequeños fragmentos de datos y darl
 # Command Substitution
 La *sustitución de comandos* permite utilizar la salida de un comando como una expansión:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/sust_com.PNG)
+
+# Quoting
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/quoting.PNG)
+Por ejemplo, en el primer comando se puede ver que 'echo' eliminó los espacios en blanco. En el segundo, en cambio, al colocar el signo '$' sobre una variable indefinida, el shell proporciona una mecanismo llamado *cotización* para suprimir selectivamente expansiones no deseadas.
