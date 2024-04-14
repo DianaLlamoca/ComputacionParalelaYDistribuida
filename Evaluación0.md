@@ -321,3 +321,9 @@ La *sustitución de comandos* permite utilizar la salida de un comando como una 
 Por ejemplo, en el primer comando se puede ver que 'echo' eliminó los espacios en blanco. En el segundo, en cambio, al colocar el signo '$' sobre una variable indefinida, el shell proporciona una mecanismo llamado *cotización* para suprimir selectivamente expansiones no deseadas.
 
 # Double Quotes
+
+
+
+# -------------
+
+# 9) Permissions
