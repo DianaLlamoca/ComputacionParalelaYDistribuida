@@ -274,5 +274,6 @@ Aquí se está listando la lista de procesos, colocamos el comando 'grep' para l
 Con la expansión, se escribe 'algo' y se expande a otra cosa. Para ello, veámoslo con un ejemplo:
 En esta imagen, el comando 'echo' lo único que hace será repetir la frase que se le ha indicado.
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/exp1.PNG)
+
 Sin embargo, en el segundo comando de 'echo' (donde hay un '*') el carácter significa 'coincidir' con cualquier carácter en un nombre de archivo (en este caso, los nombres de los archivos del directorio actual):
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/exp2.PNG)
