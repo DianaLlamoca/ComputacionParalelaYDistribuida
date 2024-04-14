@@ -300,3 +300,5 @@ El shell permite realizar operaciones aritméticas mediante expansión:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/exp_arit.PNG)
 
 OJO: La expansión aritmética se usa de la forma $((expresión))
+
+# Brace Expansion
