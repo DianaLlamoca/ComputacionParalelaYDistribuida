@@ -287,7 +287,7 @@ En el segundo, indicamos que empiece el nombre del archivo por la letra 's' segu
 
 # Tilde Expansion
 El carácter '~', cuando se usa al 'principio' de una palabra, se expande al nombre del directorio de inicio (expandir al directorio home del usuario).
-Si no se especifica ningún usuario, se mostrará el directorio del inicio del usuario actual; caso contrario (si existe el otro usuario designado), se mostraría su directorio de inicio:
+Si no se especifica ningún usuario, se mostrará el directorio de inicio del usuario actual; caso contrario (si existe el otro usuario designado), se mostraría su directorio de inicio:
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/exp_til_1.PNG)
 
