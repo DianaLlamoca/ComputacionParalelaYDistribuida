@@ -411,6 +411,6 @@ Por ejemplo, en la siguiente imagen, el programa 'xload', está siendo ejecutado
 Sin embargo, si ejecutamos el programa en segundo plano (para ello usamos el símbolo '&') se puede ver que en el shell ha vuelto a aparecer el mensaje de interacción con el usuario (pues xload fue cargado en segundo plano):
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/proc_2.PNG)
 
-# Comando: *bg*:
+# Comando: *bg*
 Al iniciar el programa 'xload', este puede ser 'detenido' colocando Control+Z luego de haberlo iniciado. De esta manera, el proceso quedará suspendido. Sin embargo, es importante saber que el *proceso sigue existiendo*, solo que está inactivo. *Para reanudar el proceso en 'segundo plano', usamos el comando *bg** (bg, abreviatura de 'background', lo cual tiene sentido, en el nombre del comando, ya que este restaura el proceso, pero en segundo plano):
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/bg.PNG)
