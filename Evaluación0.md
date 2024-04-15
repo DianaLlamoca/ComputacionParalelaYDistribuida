@@ -333,5 +333,8 @@ Por ello, es necesario idear un método para proteger a los usuarios, pues no se
 ## Comandos: chmod, su, sudo, chown, chgrp
 Es importante saber que en un sistema Linux, *a cada archivo y directorio se le asignan derechos de acceso* para el propietario del archivo, los miembros de un grupo de usuarios relacionados y todos los demás. Se pueden asignar derechos para leer un archivo, escribir un archivo y ejecutar un archivo (es decir, ejecutar el archivo como un programa).
 
+*IMPORTANTE*
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/im_1.png)
+
 ### Comando: *chmod*
 El comando *chmod* se utiliza para *cambiar los permisos de un archivo o directorio:
