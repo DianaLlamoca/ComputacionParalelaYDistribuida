@@ -412,5 +412,5 @@ Sin embargo, si ejecutamos el programa en segundo plano (para ello usamos el sí
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/proc_2.PNG)
 
 # Comando: *bg*:
-Al iniciar el programa 'xload', este puede ser 'detenido' colocando Control+Z luego de haberlo iniciado. De esta manera, el proceso quedará suspendido. Sin embargo, es importante saber que el *proceso sigue existiendo*, solo que está inactivo. *Para reanudar el proceso en 'segundo plano', usamos el comando *bg**(background, abreviatura de 'bg', lo cual tiene sentido, en el nombre del comando, ya que restaura el proceso, pero en segundo plano):
+Al iniciar el programa 'xload', este puede ser 'detenido' colocando Control+Z luego de haberlo iniciado. De esta manera, el proceso quedará suspendido. Sin embargo, es importante saber que el *proceso sigue existiendo*, solo que está inactivo. *Para reanudar el proceso en 'segundo plano', usamos el comando *bg**(bg, abreviatura de 'background', lo cual tiene sentido, en el nombre del comando, ya que restaura el proceso, pero en segundo plano):
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/bg.PNG)
