@@ -362,3 +362,13 @@ w : permite crear, eliminar o cambiar el nombre de archivos dentro del directori
 
 x : permite ingresar a un directorio (es decir cd 'nomb_del_dir').
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/chmod.PNG)
+
+#### Superusuario:
+A veces es importante convertirse en superusuario para realizar tareas importantes de administración del sistema:
+*Comando 'su'* (aquí se solicitará la contraseña de superusuario):
+
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/su.PNG)
+
+*Método alternativo: 'sudo': Con 'sudo', uno o más usuarios reciben privilegios de superusuario según sea necesario. Para ejecutar un comando como superusuario, el comando deseado simplemente va precedido del comando 'sudo'. Después de ingresar el comando, se le solicita al usuario su propia contraseña en lugar de la del superusuario:
+
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/sudo.PNG)
