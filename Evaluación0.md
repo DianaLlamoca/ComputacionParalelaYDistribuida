@@ -377,6 +377,15 @@ A veces es importante convertirse en superusuario para realizar tareas important
 ### Comando: chown
 Este comando sirve para cambiar el propietario de un archivo (para realizar esto es necesario tener privilegios de superusuario, por eso se antepone el comando *sudo*):
 
-*sudo chown "you" some_file*, "you" hace referencia al propetario al que queremos cambiar.
+#### *sudo chown "you" some_file*; "you" hace referencia al propietario al que queremos cambiar.
+
 IMPORTANTE: *chown* funciona de la misma manera con directorios.
+
+### Comando: chgrp
+Este comando sirve para cambiar la propiedad del grupo de un archivo o directorio:
+
+#### *"chgrp new_group some_file"*
+
+IMPORTANTE: Debemos ser propietarios del archivo o directorio para realizar un *chgrp*.
+Este comando también sirve para directorios.
 
