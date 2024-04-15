@@ -380,6 +380,11 @@ Este comando sirve para cambiar el propietario de un archivo (para realizar esto
 #### *sudo chown "you" some_file*; "you" hace referencia al propietario al que queremos cambiar.
 
 IMPORTANTE: *chown* funciona de la misma manera con directorios.
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/chown_1.PNG)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/chown_2.PNG)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/chown_3.PNG)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/chown_4.PNG)
+
 
 ### Comando: chgrp
 Este comando sirve para cambiar la propiedad del grupo de un archivo o directorio:
