@@ -366,7 +366,9 @@ x : permite ingresar a un directorio (es decir cd 'nomb_del_dir').
 ### Comandos: *su*, *sudo* (superusuario)
 A veces es importante convertirse en superusuario para realizar tareas importantes de administración del sistema:
 
-*Comando 'su'* (aquí se solicitará la contraseña de superusuario):
+*Comando 'su'*:
+El comando de consola linux *su* (switch user) se utiliza para cambiar de usuario cuando estamos dentro de la consola de Linux.
+Si usamos el comando linux *su* sin usuario, nos loguaremos como root por defecto, pidiéndonos el password previamente (aquí se solicitará la contraseña de superusuario):
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/su.PNG)
 
