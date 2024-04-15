@@ -393,4 +393,4 @@ Este comando sirve para cambiar la propiedad del grupo de un archivo o directori
 
 IMPORTANTE: Debemos ser propietarios del archivo o directorio para realizar un *chgrp*.
 Este comando también sirve para directorios.
-
+Es lo mismo que el comando anterior, solo que se cambia la propiedad a un nuevo grupo.
