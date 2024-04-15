@@ -363,7 +363,7 @@ w : permite crear, eliminar o cambiar el nombre de archivos dentro del directori
 x : permite ingresar a un directorio (es decir cd 'nomb_del_dir').
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/chmod.PNG)
 
-# Superusuario:
+### Superusuario:
 A veces es importante convertirse en superusuario para realizar tareas importantes de administración del sistema:
 *Comando 'su'* (aquí se solicitará la contraseña de superusuario):
 
