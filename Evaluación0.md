@@ -336,6 +336,8 @@ Es importante saber que en un sistema Linux, *a cada archivo y directorio se le 
 *IMPORTANTE:*
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/im_1.png)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/im_2.PNG)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/im_3.PNG)
 
 ### Comando: *chmod*
 El comando *chmod* se utiliza para *cambiar los permisos de un archivo o directorio:
