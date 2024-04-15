@@ -365,6 +365,7 @@ x : permite ingresar a un directorio (es decir cd 'nomb_del_dir').
 
 ### Superusuario:
 A veces es importante convertirse en superusuario para realizar tareas importantes de administración del sistema:
+
 *Comando 'su'* (aquí se solicitará la contraseña de superusuario):
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/su.PNG)
