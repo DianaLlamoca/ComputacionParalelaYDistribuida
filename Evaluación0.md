@@ -339,7 +339,7 @@ Es importante saber que en un sistema Linux, *a cada archivo y directorio se le 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/im_2.PNG)
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/im_3.PNG)
 
-### Comando: *chmod*
+### Comando: *chmod*  --> chmod 'valor' 'some_file'
 El comando *chmod* se utiliza para *cambiar los permisos de un archivo o directorio.*
 Por ejemplo, si se quiere configurar los permisos de lectura y escritura para el propietario (y teniendo en cuenta lo anterior), pero quisiéramos mantener el *archivo* privado de otros, se ejecutaría lo siguiente:
 
