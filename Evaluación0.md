@@ -327,3 +327,9 @@ Por ejemplo, en el primer comando se puede ver que 'echo' eliminó los espacios 
 # -------------
 
 # 9) Permissions
+Los sistemas tipo Unix (como Linux) se caracterizan por ser multiusuarios. Es decir, más de un usuario puede estar operando la computadora al mismo tiempo.
+Por ello, es necesario idear un método para proteger a los usuarios, pues no se va a querer que las acciones de un usuario bloqueen la computadora, ni que un usuario interfiera los archivos que le pertenecen a otro usuario.
+
+## Comandos: chmod, su, sudo, chown, chgrp
+
+### Comando: *chmod*
