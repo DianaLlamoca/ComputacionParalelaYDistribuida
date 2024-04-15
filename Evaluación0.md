@@ -355,6 +355,7 @@ Con el procedimiento anterior, ya se pueden interpretar los siguientes valores: 
 
 #### Para directorios:
 El comando *chmod* también se puede utilizar para controlar los permisos de acceso a 'directorios'. También podemos usar la notación octal para establecer permisos, pero el significado de los atributos r, w y x es diferente:
+
 r : permite enumerar el contenido del directorio si también se establece el atributo 'x'.
 w : permite crear, eliminar o cambiar el nombre de archivos dentro del directorio si también se establece el atributo 'x'.
 x : permite ingresar a un directorio (es decir cd 'nomb_del_dir').
