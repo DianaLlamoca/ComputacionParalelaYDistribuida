@@ -429,4 +429,5 @@ Primero probemos con *jobs*. Dicho comando nos brinda un 'número de trabajo'. E
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/kill_1.PNG)
 
 Ahora, usando el comando *ps*. Este comando, a diferencia del anterior, nos proporciona un ID del proceso (PID). Por lo que para usar 'kill', tendremos que agregar el ID del proceso que queremos eliminar:
+
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/kill_2.PNG)
