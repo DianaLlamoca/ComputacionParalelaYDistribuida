@@ -425,7 +425,7 @@ También, se puede usar el comando *ps*:
 # Comando: *kill*
 Si queremos terminar un proceso, ya sea porque este ha dejado de responder, podemos hacer uso del comando *kill*: 
 
-Primero probemos con *jobs*. Dicho comando nos brinda un 'número de trabajo'. El cual, para el proceso 'xload', es '1' (lo que aparece dentro del paréntesis). Entonces, para eliminar o terminar dicho proceso, colocaríamos el comando de la siguiente manera: *kill 1*
+Primero probemos con *jobs*. Dicho comando nos brinda un 'número de trabajo'. El cual, para el proceso 'xload', es '1' (lo que aparece dentro del paréntesis). Entonces, para eliminar o terminar dicho proceso, colocaríamos el comando de la siguiente manera: *kill %1*
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/kill_1.PNG)
 
 Ahora, usando el comando *ps*. Este comando, a diferencia del anterior, nos proporciona un ID del proceso (PID). Por lo que para usar 'kill', tendremos que agregar el ID del proceso que queremos eliminar:
