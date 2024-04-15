@@ -383,7 +383,7 @@ IMPORTANTE: *chown* funciona de la misma manera con directorios.
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/chown_1.PNG)
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/chown_2.PNG)
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/chown_3.PNG)
-![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/chown_4.PNG)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/chown_4_a.PNG)
 
 
 ### Comando: chgrp
