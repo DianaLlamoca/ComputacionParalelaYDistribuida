@@ -370,6 +370,6 @@ A veces es importante convertirse en superusuario para realizar tareas important
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/su.PNG)
 
-*Método alternativo: 'sudo': Con 'sudo', uno o más usuarios reciben privilegios de superusuario según sea necesario. Para ejecutar un comando como superusuario, el comando deseado simplemente va precedido del comando 'sudo'. Después de ingresar el comando, se le solicita al usuario su propia contraseña en lugar de la del superusuario:
+*Método alternativo: 'sudo'*: Con 'sudo', uno o más usuarios reciben privilegios de superusuario según sea necesario. Para ejecutar un comando como superusuario, el comando deseado simplemente va precedido del comando 'sudo'. Después de ingresar el comando, se le solicita al usuario su propia contraseña en lugar de la del superusuario:
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/sudo.PNG)
