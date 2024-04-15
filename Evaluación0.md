@@ -399,3 +399,14 @@ Es lo mismo que el comando anterior, solo que se cambia la propiedad a un nuevo 
 # -------------
 
 # 10) Job Control
+Linux es un sistema operativo multitarea, y esta característica puede controlarse con la interfaz de línea de comandos. Como ocurre con cualquier SO multitarea, Linux 'ejecuta' múltiples procesos; en realidad no es tanto así, pues estos solo dan la 'apariencia' de simultaneidad, ya que un único núcleo de procesador solo puede ejecutar un proceso a la vez. Así, el kernel de Linux logra darle a cada proceso su turno en el procesador, de tal manera que parecen estar ejecutándose al mismo tiempo.
+En Linux, hay varios comandos que pueden utilizarse para controlar procesos. Algunos de ellos son los siguientes:
+
+#### Comandos: *ps, kill, jobs, bg, fg*
+Antes de empezar, es importante conocer qué significa que un proceso esté en primer o segundo plano:
+
+Por ejemplo, en la siguiente imagen el programa 'xload' está siendo ejecutado en *primer plano*, pues se ve que el shell está esperando a que finalice el programa antes de que regrese el control:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/proc_1.PNG)
+
+Sin embargo, si ejecutamos el programa en segundo plano (para ello usamos el símbolo '&') se puede ver que en el shell ha vuelto a aparecer el mensaje de interacción con el usuario (pues xload fue cargado en segundo plano):
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/proc_2.PNG)
