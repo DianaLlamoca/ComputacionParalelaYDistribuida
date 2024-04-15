@@ -339,11 +339,13 @@ Es importante saber que en un sistema Linux, *a cada archivo y directorio se le 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/im_2.PNG)
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/im_3.PNG)
 
-### Comando: *chmod*  --> chmod 'valor' 'some_file'
+### Comando: *chmod* 
 El comando *chmod* se utiliza para *cambiar los permisos de un archivo o directorio.*
 Por ejemplo, si se quiere configurar los permisos de lectura y escritura para el propietario (y teniendo en cuenta lo anterior), pero quisiéramos mantener el *archivo* privado de otros, se ejecutaría lo siguiente:
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/chmod_file.PNG)
+
+"chmod 'valor' 'some_file'"
 
 El '600' implica lo siguiente: en este caso, el '6' se escribe como *110* (como serie de bits), que, según lo anterior, el primer conjunto hace referencia a los permisos del propietario, por lo que el *11*0 implica permisos de solo lectura y escritura (r,w). El '0' se escribe como *000* (en serie de bits), y al ser el segundo conjunto hace referencia a los permisos para los miembros del grupo root, por lo que el *000* implicaría no permisos ni de lectura, ni de escritura, ni de ejecución; mientras que el último '0', que también se escribe como *000* (en serie de bits), es el tercer conjunto y hace referencia a los permisos de los usuarios, y al ser *000* hace referencia a que no se les está dando ningún permiso.
 Con el procedimiento anterior, ya se pueden interpretar los siguientes valores: 777, 755, 700, etc...
