@@ -405,8 +405,12 @@ En Linux, hay varios comandos que pueden utilizarse para controlar procesos. Alg
 #### Comandos: *ps, kill, jobs, bg, fg*
 Antes de empezar, es importante conocer qué significa que un proceso esté en primer o segundo plano:
 
-Por ejemplo, en la siguiente imagen el programa 'xload' está siendo ejecutado en *primer plano*, pues se ve que el shell está esperando a que finalice el programa antes de que regrese el control:
+Por ejemplo, en la siguiente imagen, el programa 'xload', está siendo ejecutado en *primer plano*, pues se ve que el shell está esperando a que finalice el programa antes de que regrese el control:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/proc_1.PNG)
 
 Sin embargo, si ejecutamos el programa en segundo plano (para ello usamos el símbolo '&') se puede ver que en el shell ha vuelto a aparecer el mensaje de interacción con el usuario (pues xload fue cargado en segundo plano):
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/proc_2.PNG)
+
+# Comando: *bg*:
+Al iniciar el programa 'xload', este puede ser 'detenido' colocando Control+Z luego de haberlo iniciado. De esta manera, el proceso quedará suspendido. Sin embargo, es importante saber que el *proceso sigue existiendo*, solo que está inactivo. *Para reanudar el proceso en 'segundo plano', usamos el comando *bg**(background, abreviatura de 'bg', lo cual tiene sentido, en el nombre del comando, ya que restaura el proceso, pero en segundo plano):
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/bg.PNG)
