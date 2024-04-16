@@ -1,4 +1,4 @@
-# 2) Navigation
+# 2) Navigation 
  
 ## Comandos: pwd, cd, ls
 
