@@ -322,7 +322,9 @@ Por ejemplo, en el primer comando se puede ver que 'echo' eliminó los espacios 
 
 # Double Quotes
 
+# Single Quotes
 
+# Escaping Characters
 
 # -------------
 
