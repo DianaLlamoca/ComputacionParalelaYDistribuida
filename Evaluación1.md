@@ -77,4 +77,4 @@
 # 1) Filtrar errores específicos en logs de aplicaciones paralelas
 
 # 3) Contar el número de ocurrencias de condiciones de carrera registradas:
-![(https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n1-Im%C3%A1genes/Evaluacion1/grep/grep3.png)]
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n1-Im%C3%A1genes/Evaluacion1/grep/grep3.png)
