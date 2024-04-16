@@ -1,3 +1,5 @@
+# 1) El primer contenido solo fue una introducción de lectura; pues no se usaron comandos directamente en la terminal. Por ese motivo, en el contenido 1 no coloqué comando alguno, ni imágenes que muestren la ejecución de *algo* por el motivo anteriormente descrito.
+
 # 2) Navigation 
  
 ## Comandos: pwd, cd, ls
