@@ -78,3 +78,4 @@
 
 # 3) Contar el número de ocurrencias de condiciones de carrera registradas:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n1-Im%C3%A1genes/Evaluacion1/grep/grep3.png)
+En este caso, se ven los números de ocurrencias de condiciones de carrera registradas para los archivos contenidos en la ruta /var/log/*.log de los archivos con extensiòn .log, y se ve que no hay dichas condiciones de carrera.
