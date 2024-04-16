@@ -79,3 +79,9 @@
 # 3) Contar el número de ocurrencias de condiciones de carrera registradas:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n1-Im%C3%A1genes/Evaluacion1/grep/grep3.png)
 En este caso, se ven los números de ocurrencias de condiciones de carrera registradas para los archivos contenidos en la ruta /var/log/*.log de los archivos con extensiòn .log, y se ve que no hay dichas condiciones de carrera.
+
+# **COMANDO 'pipes'**
+Ejercicios:
+Indica las actividades que realizan cada uno de los scripts:
+## 1) watch "ps aux | grep '[a]pache2' | awk '{print \$1, \$2, \$3, \$4, \$11}'"
+Este script lo que hace es que, de todos los procesos existentes, se busque el proceso 'apache2' y proceder a imprimir las columnas 1,2,3,4 y 11. Dichas columnas corresponden a 'user','pid','%cpu','%mem','command'
