@@ -434,3 +434,6 @@ Ahora, usando el comando *ps*. Este comando, a diferencia del anterior, nos prop
 
 Sin embargo, el comando 'kill' va más allá de solo 'terminar' o 'finalizar' procesos, pues su verdadero propósito es enviar *señales* a los procesos. Razón por la cual es importante tener la siguiente información en cuenta:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/kill_3.PNG)
+
+IMPORTANTE: El comando 'ps' tiene parámetros con los que puede ser usado:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/par.PNG)
