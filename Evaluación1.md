@@ -84,5 +84,5 @@ En este caso, se ven los números de ocurrencias de condiciones de carrera regis
 Ejercicios:
 Indica las actividades que realizan cada uno de los scripts:
 ## 1) watch "ps aux | grep '[a]pache2' | awk '{print \$1, \$2, \$3, \$4, \$11}'"
-![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n1-Im%C3%A1genes/Evaluacion1/pipes/pipe1.png)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n1-Im%C3%A1genes/Evaluacion1/pipes/pipe1_1.png)
 Este script lo que hace es que, de todos los procesos existentes, se busque el proceso 'apache2' y proceder a imprimir las columnas 1,2,3,4 y 11. Dichas columnas corresponden a 'user','pid','%cpu','%mem','command'
