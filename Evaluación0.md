@@ -438,4 +438,4 @@ Sin embargo, el comando 'kill' va más allá de solo 'terminar' o 'finalizar' pr
 IMPORTANTE: El comando 'ps' tiene parámetros con los que puede ser usado:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/par.PNG)
 
-# ----------------------------EVALUACIÓN 0----------------------------*
+# ----------------------------EVALUACIÓN 0----------------------------
