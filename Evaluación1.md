@@ -70,7 +70,8 @@ Sin embargo, en el ordenador donde estoy ejecutando el comando, el proceso de no
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n2-Im%C3%A1genes/ps_8_sh_a.PNG)
 Este comando lo que hace es ver si el proceso de nombre "mysqld" está usando más de 1024 de memoria. En caso sea cierto y se cumpla dicha condicional, se mostrará el mensaje que indicará el pid y nombre del proceso que está usando más memoria de la variable indicada como umbral, "MAX_MEM".
 
-Debido a que en el computador que estoy realizando la ejecución no existe el proceso de nombre "mysqld", usaré el proceso "su" (solamente esa variable cambiaré):
+Debido a que en el computador que estoy realizando la ejecución no existe el proceso de nombre "mysqld", usaré el proceso "su" (solamente esa variable la cambiaré):
+
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n2-Im%C3%A1genes/ps_8_sh_mod.PNG)
 
 ## Salida al ejecutar el archivo bash 8
