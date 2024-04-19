@@ -28,7 +28,10 @@
 
 # 4) Verificar la cantidad de instancias de un proceso y actuar si supera un umbral
 ## Archivo 'sh' del comando 4
-![]()
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n2-Im%C3%A1genes/ps_4_a.PNG)
+Este comando está verificando el número de instancias del proceso de nombre "httpd". Además, se establece un umbral de 10 instancias.
+Entonces, la variable "count" contiene la cantidad de instancias de dicho proceso.
+Con la condicional "if" se establece la condicional de que si la variable "count" es mayor al valor de la variable "MAX_INSTANCES" (que es 10), se mostrará por pantalla el mensaje contenido en "echo", además de mostrarse el nombre del proceso con su cantidad de instancias. 
 
 ## Salida al ejecutar el archivo bash 4
 ![]()
