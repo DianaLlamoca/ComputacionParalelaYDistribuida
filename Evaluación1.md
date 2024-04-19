@@ -38,8 +38,8 @@ Sin embargo, en el ordenador donde estoy ejecutando el comando, el proceso de no
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n2-Im%C3%A1genes/ps_4_a_mod.PNG)
 
 ## Salida al ejecutar el archivo bash 4
-![]()
-<p></p>
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n2-Im%C3%A1genes/ps_4_op.PNG)
+<p>Como puede verse, el código funciona de igual manera.</p>
 
 # 5) Listar todos los procesos de usuarios sin privilegios (UID > 1000)
 ## Archivo 'sh' del comando 5
