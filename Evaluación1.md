@@ -34,6 +34,9 @@ Este comando está verificando el número de instancias del proceso de nombre "h
 Entonces, la variable "count" contiene la cantidad de instancias de dicho proceso.
 Con la condicional "if" se establece la condicional de que si la variable "count" es mayor al valor de la variable "MAX_INSTANCES" (que es 10), se mostrará por pantalla el mensaje contenido en "echo", además de mostrarse el nombre del proceso con su cantidad de instancias. 
 
+Sin embargo, en el ordenador donde estoy ejecutando el comando, el proceso de nombre "httpd" no existe. Por ese motivo, estoy usando el proceso de nombre "bash", el cual contiene 2 instancias. Por ese motivo, haré el ejemplo con las variables PROCESS_NAME y MAX_INSTANCES cambiadas para que se vea que el código funciona de igual manera:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n2-Im%C3%A1genes/ps_4_a_mod.PNG)
+
 ## Salida al ejecutar el archivo bash 4
 ![]()
 <p></p>
