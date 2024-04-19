@@ -103,7 +103,13 @@ Sin embargo, al ejecutar el comando y no encontrar ninguna coincidencia con la p
 # 3) Contar el número de ocurrencias de condiciones de carrera registradas:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n1-Im%C3%A1genes/Evaluacion1/grep/grep3.png)
 
-En este caso, se ven los números de ocurrencias de condiciones de carrera registradas para los archivos contenidos en la ruta /var/log/*.log de los archivos con extensiòn .log, y se ve que no hay dichas condiciones de carrera.
+En este caso, se ven los números de ocurrencias de condiciones de carrera registradas para los archivos contenidos en la ruta /var/log/*.log de los archivos con extensión .log, y se ve que no hay dichas condiciones de carrera.
+
+# 8) Monitorizar la creación de procesos no autorizados
+Este comando permitirá mostrar la creación de procesos no autorizados y se mostrarán en pantalla:
+
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n2-Im%C3%A1genes/grep8_sh.PNG)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n2-Im%C3%A1genes/grep8_op.PNG)
 
 # **COMANDO 'pipes'**
 Ejercicios:
