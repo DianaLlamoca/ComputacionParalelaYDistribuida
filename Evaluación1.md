@@ -95,7 +95,8 @@ Debido a que en el ordenador donde estoy realizando la actividad no tengo el dir
 ## Archivo 'sh' del comando 1:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n2-Im%C3%A1genes/grep1_a.PNG)
 
-Este comando, lo que hace, es buscar (los archivos con extensión .log) de la ruta /var/log/apache2 si existe alguna coincidencia con la palabra "ERROR".
+Este comando, lo que hace, es buscar (dentro de los archivos con extensión .log) de la ruta /var/log/apache2 si existe alguna coincidencia con la palabra "ERROR".
+Sin embargo, al ejecutar el comando y no encontrar ninguna coincidencia con la palabra "ERROR" en los archivos con extensión .log, no devuelve ninguna saluda como respuesta.
 
 
 
