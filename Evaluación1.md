@@ -14,7 +14,7 @@
 
 ## Salida al ejecutar el archivo bash 2
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n2-Im%C3%A1genes/ps_2a.PNG)
-<p>Este comando muestra el proceso zombie detectado (su ID y CMD).</p>
+<p>Este comando muestra el proceso zombie detectado (su ESTADO (S), ID y CMD).</p>
 
 # 3) Reiniciar automáticamente un servicio no está corriendo -ERROOOOOR
 ## Archivo 'sh' del comando 3
