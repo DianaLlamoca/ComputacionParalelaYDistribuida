@@ -90,10 +90,14 @@ Debido a que en el computador que estoy realizando la ejecución no existe el pr
 
 # **COMANDO 'grep'**
 # 1) Filtrar errores específicos en logs de aplicaciones paralelas
-Debido a que en el ordenador donde estoy realizando la actividad no tengo el directorio "myapp", estaré usando el directorio "apache2".
+Debido a que en el ordenador donde estoy realizando la actividad no tengo el directorio "myapp", usaré (para esta comando) el directorio "apache2".
 
 ## Archivo 'sh' del comando 1:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n2-Im%C3%A1genes/grep1_a.PNG)
+
+Este comando, lo que hace, es buscar (los archivos con extensión .log) de la ruta /var/log/apache2 si existe alguna coincidencia con la palabra "ERROR".
+
+
 
 # 3) Contar el número de ocurrencias de condiciones de carrera registradas:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n1-Im%C3%A1genes/Evaluacion1/grep/grep3.png)
