@@ -20,11 +20,11 @@
 ## Primero, instalamos apache2 en el sistema:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n2-Im%C3%A1genes/ps_3_Ins_Ap%26start.PNG)
 ## Archivo 'sh' del comando 3
-![]()
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n2-Im%C3%A1genes/ps_3_sh.PNG)
 
 ## Salida al ejecutar el archivo bash 2
-![]()
-<p></p>
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n2-Im%C3%A1genes/ps_3_op.PNG)
+<p>Se puede ver que el sistema se ha reiniciado, razón por la cual, luego de esta acción, el estado del servicio será "activo".</p>
 
 # 4) Verificar la cantidad de instancias de un proceso y actuar si supera un umbral
 ## Archivo 'sh' del comando 4
