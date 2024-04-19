@@ -16,7 +16,7 @@
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n2-Im%C3%A1genes/ps_2a.PNG)
 <p>Este comando muestra el proceso zombie detectado (su ESTADO (S), ID y CMD).</p>
 
-# 3) Reiniciar automáticamente un servicio no está corriendo -ERROOOOOR
+# 3) Reiniciar automáticamente un servicio no está corriendo
 ## Primero, instalamos apache2 en el sistema e iniciamos un servicio:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n2-Im%C3%A1genes/ps_3_Ins_Ap%26start.PNG)
 ## Archivo 'sh' del comando 3
@@ -24,7 +24,7 @@
 
 ## Salida al ejecutar el archivo bash 2:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n2-Im%C3%A1genes/ps_3_op.PNG)
-<p>Se puede ver que el sistema se ha reiniciado, razón por la cual, luego de esta acción, el estado del servicio será "activo".</p>
+<p>Se puede ver que el sistema se ha reiniciado, razón por la cual, luego de esta acción, el estado del servicio será "activo" aún.</p>
 
 # 4) Verificar la cantidad de instancias de un proceso y actuar si supera un umbral
 ## Archivo 'sh' del comando 4
