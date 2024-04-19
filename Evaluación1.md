@@ -17,6 +17,8 @@
 <p>Este comando muestra el proceso zombie detectado (su ESTADO (S), ID y CMD).</p>
 
 # 3) Reiniciar automáticamente un servicio no está corriendo -ERROOOOOR
+## Primero, instalamos apache2 en el sistema:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n2-Im%C3%A1genes/ps_3_Ins_Ap%26start.PNG)
 ## Archivo 'sh' del comando 3
 ![]()
 
