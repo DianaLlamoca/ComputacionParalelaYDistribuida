@@ -10,11 +10,11 @@
 
 # 2) Identificar procesos zombis y reportar
 ## Archivo 'sh' del comando 2
-![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/SH_2.png)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n2-Im%C3%A1genes/ps_2.PNG)
 
 ## Salida al ejecutar el archivo bash 2
-![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/bash_2.png)
-<p>Este comando muestra el proceso zombie detectado (su ID y CMD). Sin embargo, debido a que no aparece ningún proceso, significa que no hay procesos zombie en el ordenador.</p>
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n2-Im%C3%A1genes/ps_2a.PNG)
+<p>Este comando muestra el proceso zombie detectado (su ID y CMD).</p>
 
 # 3) Reiniciar automáticamente un servicio no está corriendo -ERROOOOOR
 ## Archivo 'sh' del comando 3
