@@ -111,6 +111,13 @@ Este comando permitirá mostrar la creación de procesos no autorizados y se mos
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n2-Im%C3%A1genes/grep8_sh.PNG)
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n2-Im%C3%A1genes/grep8_op.PNG)
 
+# 9) Detectar y alertar sobre ataques de fuerza bruta SSH
+Este comando buscará los posibles ataques de fuerza bruta SSH en la ruta /var/log/auth.log. Sin embargo, al no haber algún ataque en el ordenador actual, no aparece nada en la terminal del sistema:
+
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n2-Im%C3%A1genes/grep9_sh.PNG)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n2-Im%C3%A1genes/grep9_op.PNG)
+
+
 # **COMANDO 'pipes'**
 Ejercicios:
 Indica las actividades que realizan cada uno de los scripts:
