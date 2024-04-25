@@ -21,3 +21,5 @@ Y ya abremos eliminado el bucket:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/EliminarBucket2.PNG)
 
 Debemos recordar que el bucket que se creó anteriormente, tenía el nombre de "ade-my-bucket"; sin embargo, este no se muestra en la lista. Lo que significa que fue eliminado correctamente.
+
+## Task 2:
