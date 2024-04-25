@@ -10,6 +10,7 @@ Ahora, para crear un CloudFormation stack (pila) desde el template ejecutaremos 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/Stack.PNG)
 
 Para verificar que el stack creó los recursos necesarios , ejecutaremos el siguiente comando para ver el output correspondiente: "aws s3api list-buckets"
+
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/Stack2.PNG)
 
 En el laboratorio se indica que debemos eliminar el bucket que hemos creado por "restricciones de seguridad del laboratorio" con el comando "aws cloudformation delete-stack --stack-name ade-my-bucket":
