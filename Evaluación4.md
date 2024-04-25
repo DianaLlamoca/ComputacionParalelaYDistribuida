@@ -22,4 +22,6 @@ Y ya abremos eliminado el bucket:
 
 Debemos recordar que el bucket que se creó anteriormente, tenía el nombre de "ade-my-bucket"; sin embargo, este no se muestra en la lista. Lo que significa que fue eliminado correctamente.
 
+# --------
+
 ## Task 2:
