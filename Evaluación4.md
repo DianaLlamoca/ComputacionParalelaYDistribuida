@@ -5,3 +5,6 @@ Acá se está creando un bucket y se está configurando el acceso, así coomo pa
 
 Para validar el CloudFormation Template, ejecutaremos el comando "aws cloudformation validate-template --template-body file://create_bucket.yml", y obtendremos el output correspondiente que indica que el template es válido:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/CloudFormation%20template%202.PNG)
+
+Ahora, para crear un CloudFormation stack (pila) desde el template ejecutaremos el siguiente comando: "aws cloudformation create-stack --stack-name ade-my-bucket  --template-body file://create_bucket.yml". Además, el output indica que el stack fue creado:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/Stack.PNG)
