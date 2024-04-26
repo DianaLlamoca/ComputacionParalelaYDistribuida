@@ -86,3 +86,32 @@ De esa manera, se modifican las propiedades de cifrado y el tipo de almacenamien
 # --------
 
 ## Task 5:
+### Comprimir y consultar el conjunto de datos:
+Se comprimirá el archivo con los dos formados ('zip' y 'gzip') con la finalizar de comparar, después, el size de cada archivo.
+El primer paso será comprimir el archivo "lab1.csv" con el comando "zip lab lab1.csv". Para ello, usaremos la terminal de AWS Cloud9:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T5_1.PNG)
+
+Con el comando anterior, se está comprimiendo el archivo "lab1.csv" a uno .zip de nombre "lab".
+Ahora, se va a comprimir el mismo archivo (lab1.csv), pero a .gzip con el comando "gzip -v lab1.csv":
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T5_2.PNG)
+El archivo "lab1.csv" fue reemplazado por el archivo .gzip (debido a "-v" en el comando)
+
+Para listar los archivos nuevos en el directorio, colocamos el comando "ls -la". "la" permite ver el archivo en formato 'long' (lo cual permite ver los permisos para cada archivo):
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T5_3.PNG)
+
+Como puede verse, el archivo .gzip pesa menos que el .zip
+
+Ahora, subimos el archivo .gzip al bucket con el comando "aws s3 cp lab1.csv.gz s3://ade-s3lab-bucket--a32060e0 --cache-control max-age=60":
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T5_4.PNG)
+
+Una vez realizado lo anterior, veremos si podemos usar Amazon S3 Select para consultar el archivo comprimido:
+Para ello, vamos a Amazon S3, seleccionamos el bucket y el archivo .gzip. Posteriormente, colocamos la opción "Consultar con S3 Select".
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T5_5.PNG)
+
+Y seleccionamos ".gzip" en el apartado de "compresión":
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T5_6.PNG)
+
+Y realizamos la consulta SQL:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T5_8.PNG)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T5_7.PNG)
+
