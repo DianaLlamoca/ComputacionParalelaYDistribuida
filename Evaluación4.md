@@ -134,3 +134,36 @@ Primero, vamos a revisar el grupo de IAM DataScienceGroup y la política de IAM 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T6_2.PNG)
 
 Como se indicó en el laboratorio, por fines de seguridad del laboratorio, ya se han creado el grupo y la política de IAM para el equipo de ciencia de datos y un usuario de IAM para Paulo.
+
+Para ver los permisos del grupo "DataScienceGroup" creado, seleccionamos la opción "Policity-For-Data-Science":
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T6_3.PNG)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T6_4.PNG)
+
+Ahora, determinaremos si el usuario "Paulo" puede acceder a los datos en Amazon S3. Para probar su acceso, se emitirán comandos de AWS CLI utilizando sus credenciales. Primero, se debe recuperar su ID de clave de acceso y su clave de acceso secreta, junto con la región de AWS de la cuenta.
+
+Para acceder a ello, vamos a CloudFormation, seleccionamos "Stacks", clickeamos sobre el link que contiene "ADE" en la descripción  y entramos al apartado de "Outputs":
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T6_5.PNG)
+
+Procedemos a copiar ambas claves de acceso:
+#### Para la clave de nombre "PauloAccessKey":
+Copiamos dicha clave, regresamos a Cloud9 y creamos una variable de nombre AK para almacenar dicho valor:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T6_6.PNG)
+
+#### Para la clave de nombre "PaulosSecretAccessKey":
+Realizamos lo mismo: regresamos a Cloud9, copiamos la clave y creamos una variable de nombre SAK para almacenar dicho valor:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T6_7.PNG)
+
+Para probar si el usuario "Paulo" puede ejecutar un comando de AWS CLI para el servicio Amazon Elastic Compute Cloud (Amazon EC2), se ejecutará el siguiente comando: "AWS_ACCESS_KEY_ID=$AK AWS_SECRET_ACCESS_KEY=$SAK aws ec2 describe-instances --region us-east-1"
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T6_8.PNG)
+
+Como puede verse, aparece ese mensaje de error, que es lo esperado. Pues debemos recordar que la política de IAM adjunta al grupo de IAM en el que se encuentra este usuario no tiene permisos para Amazon EC2.
+
+Ahora, probemos si el usuario "Paulo" puede ejecutar comandos de AWS CLI en un objeto S3 con el siguiente comando: "AWS_ACCESS_KEY_ID=$AK AWS_SECRET_ACCESS_KEY=$SAK aws s3api get-object --bucket <LAB-BUCKET-NAME> --key lab1.csv --region us-east-1 pulled_lab.csv"
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T6_9.PNG)
+
+Para ver el contenido del objeto S3, usemos el comando "cat pulled_lab.csv":
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T6_10.PNG)
+
+El resultado anterior muestra que el usuario "Paulo" puede ejecutar comandos de AWS CLI en un objeto S3.
+
+### ---------------------------------------Accessing and Analyzing Data by UsingAmazon S3--------------------------------------------------------------------
