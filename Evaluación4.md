@@ -27,7 +27,7 @@ Debemos recordar que el bucket que se creó anteriormente, tenía el nombre de "
 ## Task 2:
 ### Carga de datos de muestra a un bucket S3
 Primero, se descargará el archivo .csv:
-1[](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/DescArchCSV.PNG)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/DescArchCSV.PNG)
 
 Luego, descomprimimos el archivo con el comando 'unzip':
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/Desc1.PNG)
