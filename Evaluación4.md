@@ -168,3 +168,7 @@ Para ver el contenido del objeto S3, usemos el comando "cat pulled_lab.csv":
 El resultado anterior muestra que el usuario "Paulo" puede ejecutar comandos de AWS CLI en un objeto S3.
 
 # -----------Accessing and Analyzing Data by UsingAmazon S3----------
+
+
+# **MODULE 3: THE ELEMENTS OF DATA**
+
