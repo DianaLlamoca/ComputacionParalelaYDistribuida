@@ -124,3 +124,13 @@ Y realizamos la consulta SQL:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T5_7.PNG)
 
 Como puede verse, sí se pueden realizar consultas a un archivo comprimido, de la misma forma que en un archivo no comprimido.
+
+# --------
+
+## Task 6:
+### Administrar y probar el acceso restringido para un miembro del equipo:
+Primero, vamos a revisar el grupo de IAM DataScienceGroup y la política de IAM adjunta al grupo:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T6_1.PNG)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T6_2.PNG)
+
+Como se indicó en el laboratorio, por fines de seguridad del laboratorio, ya se han creado el grupo y la política de IAM para el equipo de ciencia de datos y un usuario de IAM para Paulo.
