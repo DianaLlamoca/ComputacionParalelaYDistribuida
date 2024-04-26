@@ -123,3 +123,4 @@ Y realizamos la consulta SQL:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T5_8.PNG)
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T5_7.PNG)
 
+Como puede verse, sí se pueden realizar consultas a un archivo comprimido, de la misma forma que en un archivo no comprimido.
