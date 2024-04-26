@@ -42,12 +42,12 @@ Sin embargo, primero veremos el nombre del bucket, así que ejecutamos el comand
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/C1.PNG)
 
-Para copiar el archivo (o dataset) en el bucket, ejecutamos el siguiente comando: "aws s3 cp lab1.csv s3://<LAB-BUCKET-NAME>".
+Para copiar el archivo (o dataset) en el bucket, ejecutamos el siguiente comando: "aws s3 cp lab1.csv s3://LAB-BUCKET-NAME".
 El parámetro <LAB-BUCKET-NAME> hace referencia al output que dio el anterior comando, por eso fue importante saber el nombre del bucket:
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/C2.PNG)
 
-De esta manera, ya abremos copiado el dataset al bucket S3. Para corroborar ello, usaremos el comando "aws s3 ls s3://<LAB-BUCKET-NAME>":
+De esta manera, ya abremos copiado el dataset al bucket S3. Para corroborar ello, usaremos el comando "aws s3 ls s3://LAB-BUCKET-NAME":
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/C3.PNG)
 
