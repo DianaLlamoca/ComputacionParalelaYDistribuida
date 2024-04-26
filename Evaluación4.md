@@ -99,7 +99,7 @@ Ahora, se va a comprimir el mismo archivo (lab1.csv), pero a .gzip con el comand
 
 El archivo "lab1.csv" fue reemplazado por el archivo .gzip (debido a "-v" en el comando)
 
-Para listar los archivos nuevos en el directorio, colocamos el comando "ls -la". "la" permite ver el archivo en formato 'long' (lo cual permite ver los permisos para cada archivo):
+Para listar los archivos nuevos en el directorio, colocamos el comando "ls -la". "-la" permite ver el archivo en formato 'long' (lo cual permite ver los permisos y tamaño para cada archivo):
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T5_3.PNG)
 
