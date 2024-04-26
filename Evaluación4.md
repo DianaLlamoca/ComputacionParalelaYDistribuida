@@ -82,3 +82,7 @@ Por último, guardamos cambios de la configuración:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T4_3.PNG)
 
 De esa manera, se modifican las propiedades de cifrado y el tipo de almacenamiento de un objetivo.
+
+# --------
+
+## Task 5:
