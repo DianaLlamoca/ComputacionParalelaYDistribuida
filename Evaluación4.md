@@ -1,4 +1,4 @@
-# **MODULE 2 _ DATA-DRIVEN ORGANIZATIONS**
+# **MODULE 2: DATA-DRIVEN ORGANIZATIONS**
 # Laboratorio: Accessing and Analyzing Data by UsingAmazon S3
 ## Task 1:
 ### Creando un nuevo CloudFormation Template para crear un bucket:
