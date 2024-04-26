@@ -56,4 +56,14 @@ Ello indica que se ha cargado correctamenta el archivo csv al bucket.
 # --------
 
 ## Task 3:
-### Consultando los datos:
+### Consultando los datos con S3 Select:
+Primero, iremos al servicio S3 Select y accedemos al bucket en donde hemos colocado el archivo .csv para configurarlo:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T3_1.PNG)
+
+Luego de realizar la configuración, en la parte inferior aparecerá el apartado "Consulta SQL", el cual ya contiene una consulta en SQL, que lo que hace es mostrar los 5 primeros registros:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T3_2.PNG)
+
+Se pueden realizar diferentes consultas en S3 Select, por ejemplo:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T3_3.PNG)
+
+Acá se muestran los nombre para las primeras 3 filas
