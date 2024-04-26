@@ -66,4 +66,4 @@ Luego de realizar la configuración, en la parte inferior aparecerá el apartado
 Se pueden realizar diferentes consultas en S3 Select, por ejemplo:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T3_3.PNG)
 
-Acá se muestran los nombre para las primeras 3 filas
+Acá se muestran los nombres de las primeras 3 filas
