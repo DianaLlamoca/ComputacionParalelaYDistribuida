@@ -51,7 +51,7 @@ De esta manera, ya abremos copiado el dataset al bucket S3. Para corroborar ello
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/C3.PNG)
 
-Ello indica que se ha cargado correctamenta el archivo al bucket.
+Ello indica que se ha cargado correctamenta el archivo csv al bucket.
 
 # --------
 
