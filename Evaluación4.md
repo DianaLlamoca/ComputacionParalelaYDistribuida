@@ -25,3 +25,29 @@ Debemos recordar que el bucket que se creó anteriormente, tenía el nombre de "
 # --------
 
 ## Task 2:
+### Carga de datos de muestra a un bucket S3
+Primero, se descargará el archivo .csv:
+1[](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/DescArchCSV.PNG)
+
+Luego, descomprimimos el archivo con el comando 'unzip':
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/Desc1.PNG)
+
+Para ver el contenido del archivo .csv, usamos el comando 'cat':
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/Desc2.PNG)
+
+Ahora, lo que se realizará, será copiar la data a un bucket S3. 
+Sin embargo, primero veremos el nombre del bucket, así que ejecutamos el comando "aws s3api list-buckets":
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/C1.PNG)
+
+Para copiar el archivo (o dataset) en el bucket, ejecutamos el siguiente comando: "aws s3 cp lab1.csv s3://<LAB-BUCKET-NAME>".
+El parámetro <LAB-BUCKET-NAME> hace referencia al output que dio el anterior comando, por eso fue importante saber el nombre del bucket:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/C2.PNG)
+
+De esta manera, ya abremos copiado el dataset al bucket S3. Para corroborar ello, usaremos el comando "aws s3 ls s3://<LAB-BUCKET-NAME>":
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/C3.PNG)
+
+Ello indica que se ha cargado correctamenta el archivo al bucket.
+
+# --------
+
+## Task 3:
