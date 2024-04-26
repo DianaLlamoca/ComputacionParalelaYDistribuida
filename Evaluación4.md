@@ -56,3 +56,4 @@ Ello indica que se ha cargado correctamenta el archivo csv al bucket.
 # --------
 
 ## Task 3:
+### Consultando los datos:
