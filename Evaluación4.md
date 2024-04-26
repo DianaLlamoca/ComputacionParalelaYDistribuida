@@ -87,7 +87,7 @@ De esa manera, se modifican las propiedades de cifrado y el tipo de almacenamien
 
 ## Task 5:
 ### Comprimir y consultar el conjunto de datos:
-Se comprimirá el archivo con los dos formados ('zip' y 'gzip') con la finalizar de comparar, después, el size de cada archivo.
+Se comprimirá el archivo con los dos formatos ('zip' y 'gzip') con la finalizar de comparar, después, el size de cada archivo.
 El primer paso será comprimir el archivo "lab1.csv" con el comando "zip lab lab1.csv". Para ello, usaremos la terminal de AWS Cloud9:
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/T5_1.PNG)
