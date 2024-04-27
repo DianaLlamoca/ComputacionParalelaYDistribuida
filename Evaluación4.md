@@ -171,5 +171,6 @@ El resultado anterior muestra que el usuario "Paulo" puede ejecutar comandos de 
 
 # ************************************************************************
 
-# **MODULE 3: THE ELEMENTS OF DATA**
-
+# **MODULE 3: KNOWLEDGE CHECK**
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/Knowledge%20Check.PNG)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n4-Im%C3%A1genes/Knowlegde%20Check%202.PNG)
