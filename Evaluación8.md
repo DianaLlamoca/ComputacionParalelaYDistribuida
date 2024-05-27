@@ -52,4 +52,10 @@ Se puede verificar lo anterior, para finalmente seleccionar "Crear tabla":
 
 ### *Preview data in the AWS Glue table
 Para visualizar la data, en el apartado de "Datos-->"Base de datos", seleccionamos "taxidata":
+En la sección "Tablas", al lado derecho de "yellow" (en los 3 puntos), seleccionaremos "Vista previa de la data":
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen14.PNG)
 
+A lo cual, se hará (por defecto, al seleccionar esta opción) una consulta de los 10 primeros datos de la tabla:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen15.PNG)
+
+En conclusión, en esta primera primera, lo que se hizo fue crear un AWS Glue database y una tabla usando el query editor de Athena. Además, se conectó un AmazonS3 dataset a la tabla y se definió el schema para esa misma tabla usando el "agregar columnas en bloque". Finalmente, una vez creada la tabla, se realizó un "preview" a la data usando el preview table feature
