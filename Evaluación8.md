@@ -18,6 +18,7 @@ En el apartado de "Location of query result", elegimos "Browse S3" y elegimos el
 
 Una vez que se especificó el bucket S3 para almacenar las consultas, se procederá a crear un AWS Glue database mediante el query editor del servicio Athena.
 
+
 ### *Create an AWS Glue database by using Athena query editor
 Para ello, volvemos al apartado "Editor" y en la sección de "Consulta 1", procedemos a crear la base de datos con el siguiente comando SQL:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen4.PNG)
@@ -27,6 +28,7 @@ Seleccionamos "Ejecutar" y de esa manera un AWS Glue database de nombre "taxidat
 
 Si bien aparece el database en la sección de "Base de datos", para comprobar ello, iremos a AWS Glue para verificarlo:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen6.PNG)
+
 
 ### *Create a table in the AWS Glue database and import data
 En el servicio Athena, en la sección "Tablas y vistas", seleccionamos crear y se desplegarán las siguientes opciones:
@@ -50,6 +52,7 @@ Después, respecto a las demás configuraciones, en "Formato de datos" se selecc
 Se puede verificar lo anterior, para finalmente seleccionar "Crear tabla":
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen13.PNG)
 
+
 ### *Preview data in the AWS Glue table
 Para visualizar la data, en el apartado de "Datos-->"Base de datos", seleccionamos "taxidata":
 En la sección "Tablas", al lado derecho de "yellow" (en los 3 puntos), seleccionaremos "Vista previa de la data":
@@ -59,5 +62,6 @@ A lo cual, se hará (por defecto, al seleccionar esta opción) una consulta de l
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen15.PNG)
 
 En conclusión, en esta primera parte, lo que se hizo fue crear un AWS Glue database y una tabla usando el query editor de Athena. Además, se conectó un AmazonS3 dataset a la tabla y se definió el schema para esa misma tabla usando el "agregar columnas en bloque". Finalmente, una vez creada la tabla, se realizó un "preview" a la data usando el preview table feature
+
 
 ## Task 2: Optimizing Athena queries by using buckets
