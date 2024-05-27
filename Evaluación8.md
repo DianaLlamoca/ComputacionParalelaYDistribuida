@@ -12,3 +12,8 @@ Una vez allí, seleccionamos "Administrar":
 
 En el apartado de "Location of query result", elegimos "Browse S3" y elegimos el bucket que fue creado al iniciar el laboratorio para luego seleccionar "Choose" y guardar:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen3.PNG)
+
+
+Una vez que se especificó el bucket S3 para almacenar las consultas, se procederá a crear un AWS Glue database mediante el query editor del servicio Athena.
+Para ello, volvemos al apartado "Editor" y en la sección de "Consulta 1", procedemos a crear la base de datos con el siguiente comando SQL:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen4.PNG)
