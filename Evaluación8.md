@@ -17,5 +17,10 @@ En el apartado de "Location of query result", elegimos "Browse S3" y elegimos el
 
 
 Una vez que se especificó el bucket S3 para almacenar las consultas, se procederá a crear un AWS Glue database mediante el query editor del servicio Athena.
+
+### *Create an AWS Glue database by using Athena query editor
 Para ello, volvemos al apartado "Editor" y en la sección de "Consulta 1", procedemos a crear la base de datos con el siguiente comando SQL:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen4.PNG)
+
+Seleccionamos "Ejecutar" y de esa manera un AWS Glue database de nombre "taxidata" es creado:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen5.png)
