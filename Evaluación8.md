@@ -59,3 +59,5 @@ A lo cual, se hará (por defecto, al seleccionar esta opción) una consulta de l
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen15.PNG)
 
 En conclusión, en esta primera parte, lo que se hizo fue crear un AWS Glue database y una tabla usando el query editor de Athena. Además, se conectó un AmazonS3 dataset a la tabla y se definió el schema para esa misma tabla usando el "agregar columnas en bloque". Finalmente, una vez creada la tabla, se realizó un "preview" a la data usando el preview table feature
+
+## Task 2: Optimizing Athena queries by using buckets
