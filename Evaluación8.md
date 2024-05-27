@@ -38,4 +38,12 @@ De las cuales, seleccionamos "Crear una tabla a partir de un origen de datos: Da
 En "Configuración de la base de datos", como anteriormente ya hemos creado una base de datos llamada "taxidata", la seleccionamos:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen9.png)
 
+En "Conjunto de datos", el cual sirve para especificar la ubicación del bucket de Amazon S3 de los datos, debemos colocar el mismo link que se indica en el laboratorio:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen10.PNG)
+
+En el que si entramos a dicho bucket, para ver su contenido, podremos ver el conjunto de datos que contiene:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen11.PNG)
+
+Después, respecto a las demás configuraciones, en "Formato de datos" se seleccionará CSV (que indica el formato en el que se encuentran los datos). Para "Detalles de columna", se elegirá "Agregar columnas en bloque" (esto provee la opción de agregar, de manera rápida, metadata a la tabla, como los nombres de las columnas y sus data types) y colocamos lo que se indica en el laboratorio:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen12.PNG)
 
