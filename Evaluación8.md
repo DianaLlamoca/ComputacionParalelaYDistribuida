@@ -76,6 +76,7 @@ Para ello, realizamos una nueva query para crear la tabla (dicha query se indica
 
 
 Para comparar el tiempo de consulta, realizaremos una consulta en cada tabla y compararemos el tiempo:
+
 Consulta a la tabla "yellow":
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen18.PNG)
 
