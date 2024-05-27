@@ -27,3 +27,5 @@ Seleccionamos "Ejecutar" y de esa manera un AWS Glue database de nombre "taxidat
 
 Si bien aparece el database en la sección de "Base de datos", para comprobar ello, iremos a AWS Glue para verificarlo:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen6.PNG)
+
+### *Create a table in the AWS Glue database and import data
