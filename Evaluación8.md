@@ -29,3 +29,13 @@ Si bien aparece el database en la sección de "Base de datos", para comprobar el
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen6.PNG)
 
 ### *Create a table in the AWS Glue database and import data
+En el servicio Athena, en la sección "Tablas y vistas", seleccionamos crear y se desplegarán las siguientes opciones:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen7.PNG)
+
+De las cuales, seleccionamos "Crear una tabla a partir de un origen de datos: Datos del bucket S3". Seleccionamos ello y se mostrará la siguiente interfaz, en donde se pedirá el nombre de la tabla, así como la descripción, entre otros. Colocamos, entonces, la información que se indica en el laboratorio:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen8.PNG)
+
+En "Configuración de la base de datos", como anteriormente ya hemos creado una base de datos llamada "taxidata", la seleccionamos:
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen9.png)
+
+
