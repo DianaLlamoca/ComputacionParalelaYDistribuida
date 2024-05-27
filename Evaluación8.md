@@ -69,9 +69,11 @@ En conclusión, en esta primera parte, lo que se hizo fue crear un AWS Glue data
 Aquí, se experimentará con "bucketizing data" para optimizar las Athena queries. Para ello, se creará una nueva tabla llamada "jan" para realizar el "bucketized data". Finalmente, se comparará el tiempo de consulta para ver la optimización.
 
 Creamos la tabla "jan":
-Para ello, realizamos una nueva query para crear la tabla (dicha query se indica en el laboratorio) y colocamos "Ejecutar":
+Para ello, realizamos una nueva query para crear la tabla (dicha query se indica en el laboratorio) y colocamos "Ejecutar" (notemos que Athena a creado una nueva tabla, llamada "jan", la cual contiene solo el mes "january" (2017) :
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen16.PNG)
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen17.PNG)
+**"The fares in this dataset all have pickup timestamps, and almost all the timestamps are unique for each record (meaning the records have high cardinality), but also have January in the month column, so you can use bucketizing. The january data is stored in a separate file in Amazon S3 from the file with the full dataset".**
+
 
 Para comparar el tiempo de consulta, realizaremos una consulta en cada tabla y compararemos el tiempo:
 Consulta a la tabla "yellow":
