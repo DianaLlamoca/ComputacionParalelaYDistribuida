@@ -49,3 +49,7 @@ Después, respecto a las demás configuraciones, en "Formato de datos" se selecc
 
 Se puede verificar lo anterior, para finalmente seleccionar "Crear tabla":
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen13.PNG)
+
+### *Preview data in the AWS Glue table
+Para visualizar la data, en el apartado de "Datos-->"Base de datos", seleccionamos "taxidata":
+
