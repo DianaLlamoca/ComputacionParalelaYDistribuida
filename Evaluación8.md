@@ -66,3 +66,16 @@ En conclusión, en esta primera parte, lo que se hizo fue crear un AWS Glue data
 # ---
 
 ## Task 2: Optimizing Athena queries by using buckets
+Aquí, se experimentará con "bucketizing data" para optimizar las Athena queries. Para ello, se creará una nueva tabla llamada "jan" para realizar el "bucketized data". Finalmente, se comparará el tiempo de consulta para ver la optimización.
+
+Creamos la tabla "jan":
+Para ello, realizamos una nueva query para crear la tabla (dicha query se indica en el laboratorio) y colocamos "Ejecutar":
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen16.PNG)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen17.PNG)
+
+Para comparar el tiempo de consulta, realizaremos una consulta en cada tabla y compararemos el tiempo:
+Consulta a la tabla "yellow":
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen18.PNG)
+
+Consulta a la tabla "jan":
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen19.PNG)
