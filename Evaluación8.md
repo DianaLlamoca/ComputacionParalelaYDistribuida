@@ -38,7 +38,7 @@ De las cuales, seleccionamos "Crear una tabla a partir de un origen de datos: Da
 En "Configuración de la base de datos", como anteriormente ya hemos creado una base de datos llamada "taxidata", la seleccionamos:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen9.png)
 
-En "Conjunto de datos", el cual sirve para especificar la ubicación del bucket de Amazon S3 de los datos, debemos colocar el mismo link que se indica en el laboratorio:
+En "Conjunto de datos", el cual sirve para especificar la ubicación del bucket de Amazon S3 de los datos, debemos colocar el mismo link que se indica en el laboratorio (seleccionamos esa casilla que aparece en la parte inferior):
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen10.PNG)
 
 En el que si entramos a dicho bucket, para ver su contenido, podremos ver el conjunto de datos que contiene:
