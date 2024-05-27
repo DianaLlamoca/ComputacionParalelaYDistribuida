@@ -82,3 +82,5 @@ Consulta a la tabla "yellow":
 
 Consulta a la tabla "jan":
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen19.PNG)
+
+De esta manera, el tiempo de consulta puede hacerse menor.
