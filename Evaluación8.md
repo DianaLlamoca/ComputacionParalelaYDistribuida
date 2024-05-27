@@ -44,6 +44,8 @@ En "Conjunto de datos", el cual sirve para especificar la ubicación del bucket 
 En el que si entramos a dicho bucket, para ver su contenido, podremos ver el conjunto de datos que contiene:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen11.PNG)
 
-Después, respecto a las demás configuraciones, en "Formato de datos" se seleccionará CSV (que indica el formato en el que se encuentran los datos). Para "Detalles de columna", se elegirá "Agregar columnas en bloque" (esto provee la opción de agregar, de manera rápida, metadata a la tabla, como los nombres de las columnas y sus data types) y colocamos lo que se indica en el laboratorio:
+Después, respecto a las demás configuraciones, en "Formato de datos" se seleccionará CSV (que indica el formato en el que se encuentran los datos). Para "Detalles de columna", se elegirá "Agregar columnas en bloque" (esto provee la opción de agregar, de manera rápida, metadata a la tabla, como los nombres de las columnas y sus data types) y colocamos lo que se indica en el laboratorio para finalmente colocar "Agregar":
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen12.PNG)
 
+Se puede verificar lo anterior, para finalmente seleccionar "Crear tabla":
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/Evaluaci%C3%B3n8-Im%C3%A1genes/Imagen13.PNG)
