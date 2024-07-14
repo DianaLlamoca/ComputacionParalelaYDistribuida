@@ -9,6 +9,7 @@
 • Integra un recolector de basura generacional para la gestión eficiente de la memoria en los nodos de control de los robots.
 
 # Solución 1: Implementación de los algoritmos distribuidos
+
 **Algoritmo de Chandy-Lamport:**
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA2/Imagenes/IM1.PNG)
 
