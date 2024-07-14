@@ -30,7 +30,7 @@
 
 # Solución 1: Implementación de los algoritmos distribuidos
 Algoritmo Dijkstra-Scholten:
-![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA3/Imagenes/I1.PNG
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA3/Imagenes/I1.PNG)
 
 Algoritmo Ricard Agrawala:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA3/Imagenes/I2.PNG)
