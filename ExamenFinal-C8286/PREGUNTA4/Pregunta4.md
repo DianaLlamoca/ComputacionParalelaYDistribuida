@@ -42,4 +42,6 @@ Por ese motivo, esta función realizará la partición de manera aleatoria en un
 Esta función recibe como parámetro el diccionario donde están almacenadas las particiones, para después realizar el paso de unir ambas particiones que se generaron.
 Para ello, primero se realiza la conversión al tipo de dato "list", se mezclan las particiones, y finalmente se crea el diccionario final que almacenará la red sin las particiones.
 
+# Solución 6:Implementación de la función para simular la operación de cuando un nodo quiere aplicar una operación.
 
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA4/Imagenes/IM_7.PNG)
