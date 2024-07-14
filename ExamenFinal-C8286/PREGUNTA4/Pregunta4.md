@@ -47,3 +47,9 @@ Para ello, primero se realiza la conversión al tipo de dato "list", se mezclan 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA4/Imagenes/IM_7.PNG)
 
 Esta función simula la operación (consideré 2 operaciones: lectura y escritura) que realiza cada nodo de forma independiente.
+
+# Solución 7: Implementación de la función que realiza la replicación de la operación local a partir de un nodo a todos los demás
+
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA4/Imagenes/IM_8.PNG)
+
+Esta función simula la replicación de una operación realizada por un nodo a todos los demás en la red.
