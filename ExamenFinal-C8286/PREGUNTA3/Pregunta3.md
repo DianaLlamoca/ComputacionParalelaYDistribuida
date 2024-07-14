@@ -30,17 +30,22 @@
 
 # Solución 1: Implementación de los algoritmos distribuidos
 Algoritmo Dijkstra-Scholten:
+
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA3/Imagenes/I1.PNG)
 
 Algoritmo Ricard Agrawala:
+
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA3/Imagenes/I2.PNG)
 
 Algoritmo Berkeley:
+
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA3/Imagenes/I3.PNG)
 
 Algoritmo Chenney Collector:
+
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA3/Imagenes/I4.PNG)
 
 # Solución 2: Creación de la clase "Message"
 Las instrucciones indican que se debe crear la clase con los atributos "sender", "content" y "timestamp":
+
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA3/Imagenes/I5.PNG)
