@@ -45,3 +45,5 @@ Para ello, primero se realiza la conversión al tipo de dato "list", se mezclan 
 # Solución 6:Implementación de la función para simular la operación de cuando un nodo quiere aplicar una operación.
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA4/Imagenes/IM_7.PNG)
+
+Esta función simula la operación que realiza cada nodo de forma independiente.
