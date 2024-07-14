@@ -10,7 +10,7 @@
 
 # Solución 1: Implementación de los algoritmos distribuidos
 
-**Algoritmo de Chandy-Lamport:**
+## **Algoritmo de Chandy-Lamport:**
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA2/Imagenes/IM1.PNG)
 
