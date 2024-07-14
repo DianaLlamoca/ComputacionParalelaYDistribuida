@@ -34,3 +34,10 @@ Para ello, se elige el ID de un nodo de forma aleatoria, el cual representará a
 Para realizar esta simulación, la función recibirá como argumento el conjunto de nodos restantes (sin el nodo fallido, pues este ha sido removido debido al fallo que presentó). Dicho conjunto de nodos restantes presentará una partición (simulando que hubo un fallo en la red o similar).
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA4/Imagenes/IM_5.PNG)
 Por ese motivo, esta función realizará la partición de manera aleatoria en un conjunto de 2 particiones.
+
+# Solución 5: Implementación de la función para simular la "curación de la red"
+
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA4/Imagenes/IM_6.PNG)
+Esta función recibe como parámetro el diccionario donde están almacenadas las particiones, para después realizar el paso unirl ambas particiones que se generó.
+
+
