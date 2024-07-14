@@ -33,4 +33,4 @@
 
 ## Integración de las clases de los algoritmos en una sola para crear el sistema de coordinación de tareas:
 
-![](]https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA2/Imagenes/IM7.PNG)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA2/Imagenes/IM7.PNG)
