@@ -14,4 +14,7 @@
 
 # Solución 1: Implementación del algoritmo Raft
 **ALGORITMO RAFT:**
+
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA4/Imagenes/IM_1.PNG)
+
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA4/Imagenes/IM_2.PNG)
