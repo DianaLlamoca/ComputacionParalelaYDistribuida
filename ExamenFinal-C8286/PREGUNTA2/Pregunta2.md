@@ -1,1 +1,6 @@
-
+# Pregunta2:
+## Crea un sistema de coordinación de tareas en una red de robots industriales:
+• Usa el algoritmo de Chandy-Lamport para tomar instantáneas del estado global de los robots durante la ejecución de n tareas.
+• Implementa el algoritmo de Raymond para la exclusión mutua en el acceso a recursos compartidos entre los robots.
+• Utiliza relojes vectoriales para asegurar el ordenamiento parcial de los eventos y detectar violaciones de causalidad.
+• Integra un recolector de basura generacional para la gestión eficiente de la memoria en los nodos de control de los robots.
