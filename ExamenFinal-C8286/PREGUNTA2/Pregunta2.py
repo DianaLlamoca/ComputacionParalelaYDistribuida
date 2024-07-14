@@ -54,7 +54,7 @@ class Chandy_Lamport:
                     self.process_message(message)
 
     def process_message(self, message):
-        # Simulate processing of a normal message
+        #Simulando el procesamiento de un mensaje normal
         print(f"El robot {self.process_id} recibió un mensaje desde el robot {message[1]}: {message[2]}")
 
     def update_state(self, new_state):
