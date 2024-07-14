@@ -38,6 +38,7 @@ Por ese motivo, esta función realizará la partición de manera aleatoria en un
 # Solución 5: Implementación de la función para simular la "curación de la red"
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA4/Imagenes/IM_6.PNG)
+
 Esta función recibe como parámetro el diccionario donde están almacenadas las particiones, para después realizar el paso unirl ambas particiones que se generó.
 
 
