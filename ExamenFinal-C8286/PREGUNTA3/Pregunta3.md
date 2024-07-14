@@ -65,5 +65,10 @@ Además, dentro de esta clase es donde se realiza la integración de los algorit
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA3/Imagenes/I7.PNG)
 
 • Creación del método para recibir mensajes:
+
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA3/Imagenes/I8.PNG)
+
 Aquí consideré 3 casos, puesto que, como mencioné anteriormente, el contenido (content) del mensaje definirá qué algoritmo distribuido usar, así como el método a llamar.
-• - 
+• -Caso 1:
+
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA3/Imagenes/I9.PNG)
