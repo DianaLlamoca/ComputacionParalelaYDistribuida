@@ -59,25 +59,20 @@ Esta función simula la replicación de una operación realizada por un nodo a t
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA4/Imagenes/IM_9.PNG)
 
-# Output de la simulación:
-El nodo, con ID 0, ha fallado y se eliminó del conjunto de nodos:
-{1: <__main__.Node object at 0x00000197CA4FA3C0>, 2: <__main__.Node object at 0x00000197CA4FA420>, 3: <__main__.Node object at 0x00000197CA4FA450>, 4: <__main__.Node object at 0x00000197CA4FA750>}
-===========
-Hubo una partición en la red, quedando: {'Particion1': {1, 2}, 'Particion2': {3, 4}}
-===========
-Las particiones antes de realizar la curación de la red es {'Particion1': {1, 2}, 'Particion2': {3, 4}}
-Se realizó la curación de la red {1: <__main__.Node object at 0x00000197CA4FA3F0>, 2: <__main__.Node object at 0x00000197CA4FA780>, 3: <__main__.Node object at 0x00000197CA4FA7E0>, 4: <__main__.Node object at 0x00000197CA4FA810>}
-===========
-Se realizó la operación pendiente de lectura para el nodo 1
-{'tipo': 'lectura', 'dato': 46}
-Se realizó la operación pendiente de lectura para el nodo 2
-{'tipo': 'lectura', 'dato': 89}
-Se realizó la operación pendiente de lectura para el nodo 3
-{'tipo': 'lectura', 'dato': 47}
-Se realizó la operación pendiente de escritura para el nodo 4
-{'tipo': 'escritura', 'dato': 49}
-===========
-El nodo 2 va a replicar la operacion local que hizo {'tipo': 'lectura', 'dato': 89} a los nodos restantes
-Se replicó el mensaje {'tipo': 'lectura', 'dato': 89} para el nodo 1 desde el nodo 2
-Se replicó el mensaje {'tipo': 'lectura', 'dato': 89} para el nodo 3 desde el nodo 2
-Se replicó el mensaje {'tipo': 'lectura', 'dato': 89} para el nodo 4 desde el nodo 2
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA4/Imagenes/IM_10.PNG)
+
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA4/Imagenes/IM_11.PNG)
+
+# Output de la simulación
+
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA4/Imagenes/IM_12.PNG)
+
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA4/Imagenes/IM_13.PNG)
+
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA4/Imagenes/IM_14.PNG)
+
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA4/Imagenes/IM_15.PNG)
+
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA4/Imagenes/IM_16.PNG)
+
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA4/Imagenes/IM_17.PNG)
