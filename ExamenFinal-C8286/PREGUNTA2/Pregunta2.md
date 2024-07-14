@@ -37,6 +37,7 @@ Se crea una clase "Robot" que almacenará todas las clases de los algoritmos dis
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA2/Imagenes/IM7.PNG)
 
 Luego de que se haya instanciado cada clase por algoritmo distribuido dentro de la clase "Robot", se implementan los métodos por cada algoritmo:
+• Implementación de métodos en la clase robot para el algoritmo "Chandy-Lamport":
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA2/Imagenes/IM8.PNG)
 
