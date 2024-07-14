@@ -32,7 +32,7 @@
 
 
 ## Integración de las clases de los algoritmos en una sola para crear el sistema de coordinación de tareas:
-Se crea una clase que almacenará todas las clases de los algoritmos distribuidos:
+Se crea una clase "Robot" que almacenará todas las clases de los algoritmos distribuidos:
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA2/Imagenes/IM7.PNG)
 
