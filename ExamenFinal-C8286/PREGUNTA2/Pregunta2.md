@@ -58,4 +58,4 @@ Luego de que se haya instanciado cada clase por algoritmo distribuido dentro de 
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA2/Imagenes/IM12.PNG)
 
-# El código se encuentra más documentado mediante comentarios en el archivo .py
+## El código se encuentra más documentado mediante comentarios en el archivo .py
