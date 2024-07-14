@@ -51,7 +51,7 @@
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA3/Imagenes/I5.PNG)
 El atributo "content" en este caso será una lista de strings. Dicha lista contendrá el "tipo" del mensaje, como el "contenido". Los cuales servirán para identificar qué algoritmo distribuido se debe usar, así como definir qué método de dicho algoritmo aplicar (también está la explicación en el archivo .py como comentarios).
 
-# Solución 3: Creación de la clase "Node"
+# Solución 3: Creación de la clase "Node" con sus métodos y atributos
 **Creación de atributos de la clase "Node"**:
 En la clase "Node" se implementó los atributos correspondientes que se indica en la pregunta 3:
 
@@ -89,6 +89,20 @@ Aquí consideré 3 casos, puesto que, como mencioné anteriormente, el contenido
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA3/Imagenes/I13.PNG)
 
 
-# Solución 4: Creación de la clase "Network"
-**Creación de la clase "Network":**
+# Solución 4: Creación de la clase "Network" con sus métodos y atributos
+**Creación de los atributos de la clase "Network":**
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA3/Imagenes/I14.PNG)
+
+**Creación de los métodos de la clase "Network":**
+
+• -**Implementación del método "iniciar":**
+
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA3/Imagenes/I15.PNG)
+
+• -**Implementación del método "detener":**
+
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA3/Imagenes/I16.PNG)
+
+# Solución 4: Simulación de envío de mensajes por parte de un nodo a sus nodos vecinos, así como la simulación de un nodo deteniendo a sus nodos vecinos:
+
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA3/Imagenes/I17.PNG)
