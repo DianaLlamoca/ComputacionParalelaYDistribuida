@@ -60,11 +60,11 @@ Sin embargo, añadí un atributo, llamado "vecinos", ya que será importante par
 Además, dentro de esta clase es donde se realiza la integración de los algoritmos distribuidos para ir creando el sistema.
 
 **Creación de métodos de la clase "Node"**:
-• Creación del método para enviar mensajes a otros nodos:
+• **Creación del método para enviar mensajes a otros nodos:**
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA3/Imagenes/I7.PNG)
 
-• Creación del método para recibir mensajes:
+• **Creación del método para recibir mensajes:**
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA3/Imagenes/I8.PNG)
 
@@ -79,3 +79,14 @@ Aquí consideré 3 casos, puesto que, como mencioné anteriormente, el contenido
 
 • -**Caso 3:**
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA3/Imagenes/I11.PNG)
+
+
+**Creación del método para enviar mensajes de terminación:**
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA3/Imagenes/I12.PNG)
+
+
+**Creación del método para detectar la terminación de procesos:**
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA3/Imagenes/I13.PNG)
+
+**Creación de la clase "Network":**
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA3/Imagenes/I14.PNG)
