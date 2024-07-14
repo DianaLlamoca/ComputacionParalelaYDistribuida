@@ -26,6 +26,11 @@
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA2/Imagenes/IM5.PNG)
 
-## **Algoritmo de recoler de basura generacional:**
+## **Algoritmo de recolector de basura generacional:**
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA2/Imagenes/IM6.PNG)
+
+
+## Integración de las clases de los algoritmos en una sola para crear el sistema de coordinación de tareas:
+
+![](]https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA2/Imagenes/IM7.PNG)
