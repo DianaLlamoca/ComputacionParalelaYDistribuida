@@ -11,3 +11,7 @@
 • Registros de operaciones y versiones de datos para gestionar la consistencia eventual.
 
 • Diferentes configuraciones de particiones y curaciones en la red.
+
+# Solución 1: Implementación del algoritmo Raft
+**ALGORITMO RAFT:**
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA4/Imagenes/IM_1.PNG)
