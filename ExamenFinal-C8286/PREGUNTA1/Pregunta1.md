@@ -4,6 +4,6 @@
 
 • Implementar mecanismos de manejo de errores y registro de logs para diferentes tipos de errores.
 
-• Asegurae operaciones seguras en los hilos al acceder a recursos compartidos.
+• Asegurar operaciones seguras en los hilos al acceder a recursos compartidos.
 
 • Implementa un sistema para filtrar y priorizar eventos según su importancia o tipo.
