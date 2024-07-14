@@ -76,3 +76,5 @@ Esta función simula la replicación de una operación realizada por un nodo a t
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA4/Imagenes/IM_16.PNG)
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA4/Imagenes/IM_17.PNG)
+
+## El código se encuentra más documentado mediante comentarios en el archivo .py
