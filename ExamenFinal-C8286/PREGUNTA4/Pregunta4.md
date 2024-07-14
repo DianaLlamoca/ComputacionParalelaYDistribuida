@@ -28,3 +28,9 @@ Aquí se realiza la simulación de la latencia al realizar el envío de mensajes
 
 Para ello, se elige el ID de un nodo de forma aleatoria, el cual representará al nodo fallido. Dicho nodo será eliminado del conjunto de nodos para simular el fallo del nodo.
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA4/Imagenes/IM_4.PNG)
+
+# Solución 4: Implementación de la función para simular la partición de los nodos.
+
+Para realizar esta simulación, la función recibirá como argumento el conjunto de nodos restantes (sin el nodo fallido, pues este ha sido removido debido al fallo que presentó). Dicho conjunto de nodos restantes presentará una partición (simulando que hubo un fallo en la red o similar).
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA4/Imagenes/IM_5.PNG)
+Por ese motivo, esta función realizará la partición de manera aleatoria en un conjunto de 2 particiones.
