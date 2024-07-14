@@ -23,3 +23,8 @@
 
 Aquí se realiza la simulación de la latencia al realizar el envío de mensajes:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA4/Imagenes/IM_3.PNG)
+
+# Solución 3: Implementación de la función para simular el fallo de nodos.
+
+Para ello, se elige el ID de un nodo de forma aleatoria, el cual representará al nodo fallido. Dicho nodo será eliminado del conjunto de nodos para simular el fallo del nodo.
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA4/Imagenes/IM_4.PNG)
