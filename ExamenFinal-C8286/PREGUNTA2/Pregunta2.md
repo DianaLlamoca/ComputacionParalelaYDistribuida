@@ -14,7 +14,7 @@
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA2/Imagenes/IM1.PNG)
 
-![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA2/Imagenes/IM2.1.PNG)
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA2/Imagenes/IM2.2.PNG)
 
 ## **Algoritmo de Raymond:**
 
