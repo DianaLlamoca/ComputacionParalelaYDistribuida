@@ -88,5 +88,7 @@ Aquí consideré 3 casos, puesto que, como mencioné anteriormente, el contenido
 **Creación del método para detectar la terminación de procesos:**
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA3/Imagenes/I13.PNG)
 
+
+# Solución 4: Creación de la clase "Network"
 **Creación de la clase "Network":**
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA3/Imagenes/I14.PNG)
