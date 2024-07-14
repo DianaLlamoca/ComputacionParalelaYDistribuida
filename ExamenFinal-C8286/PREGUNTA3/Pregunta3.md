@@ -107,3 +107,6 @@ Aquí consideré 3 casos, puesto que, como mencioné anteriormente, el contenido
 # Solución 4: Simulación de envío de mensajes por parte de un nodo a sus nodos vecinos, así como la simulación de un nodo deteniendo a sus nodos vecinos:
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA3/Imagenes/I17.PNG)
+
+
+## El código se encuentra más documentado mediante comentarios en el archivo .py
