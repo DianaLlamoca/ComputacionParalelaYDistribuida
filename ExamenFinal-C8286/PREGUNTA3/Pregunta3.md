@@ -52,9 +52,18 @@
 El atributo "content" en este caso será una lista de strings. Dicha lista contendrá el "tipo" del mensaje, como el "contenido". Los cuales servirán para identificar qué algoritmo distribuido se debe usar, así como definir qué método de dicho algoritmo aplicar (también está la explicación en el archivo .py como comentarios).
 
 # Solución 3: Creación de la clase "Node"
+**Creación de atributos de la clase "Node"**:
 En la clase "Node" se implementó los atributos correspondientes que se indica en la pregunta 3:
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA3/Imagenes/I6.PNG)
 Sin embargo, añadí un atributo, llamado "vecinos", ya que será importante para implementar los métodos que se indican crear, como "enviar mensajes a otros nodos", etc.
 Además, dentro de esta clase es donde se realiza la integración de los algoritmos distribuidos para ir creando el sistema.
 
+**Creación de métodos de la clase "Node"**:
+• Creación del método para enviar mensajes a otros nodos:
+
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA3/Imagenes/I7.PNG)
+
+• Creación del método para recibir mensajes:
+Aquí consideré 3 casos, puesto que, como mencioné anteriormente, el contenido (content) del mensaje definirá qué algoritmo distribuido usar, así como el método a llamar.
+• - 
