@@ -21,4 +21,5 @@
 
 # Solución 2: Implementación de la simulación de latencia de red en la comunicación entre nodos.
 
+Aquí se realiza la simulación de la latencia al realizar el envío de mensajes:
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA4/Imagenes/IM_3.PNG)
