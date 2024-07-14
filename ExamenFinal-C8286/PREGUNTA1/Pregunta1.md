@@ -1,3 +1,4 @@
+# Pregunta 1
 # Implementa un sistema basado en eventos en Python que simule cómo los
 Jupyter Notebooks manejan eventos e interacciones de usuario. Esto incluye crear un bucle de eventos, manejar diferentes tipos de eventos y actualizar el estado de un notebook simulado basado en interacciones de usuario.
 El código debe incluir:
