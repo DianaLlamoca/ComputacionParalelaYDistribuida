@@ -53,3 +53,7 @@ Luego de que se haya instanciado cada clase por algoritmo distribuido dentro de 
 • Implementación de métodos en la clase robot para el algoritmo de "recolector de basura generacional":
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA2/Imagenes/IM11.PNG)
+
+## Simulación: Instanciando objetos a la clase Robot y llamando a algunos métodos:
+
+![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA2/Imagenes/IM12.PNG)
