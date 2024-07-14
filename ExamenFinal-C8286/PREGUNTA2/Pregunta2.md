@@ -50,6 +50,6 @@ Luego de que se haya instanciado cada clase por algoritmo distribuido dentro de 
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA2/Imagenes/IM10.PNG)
 
-• Implementación de métodos en la clase robot para el algoritmo de "relojes vectoriales":
+• Implementación de métodos en la clase robot para el algoritmo de "recolector de basura generacional":
 
 ![](https://github.com/DianaLlamoca/ComputacionParalelaYDistribuida/blob/main/ExamenFinal-C8286/PREGUNTA2/Imagenes/IM11.PNG)
